@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chris Ried – Writing</title>
-    <link>http://localhost:1313/tags/writing/</link>
+    <link>https://cbayes.com/tags/writing/</link>
     <description>Recent content in Writing on Chris Ried</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Nov 2023 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://cbayes.com/tags/writing/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>CreativeQ</title>
-      <link>http://localhost:1313/blog/creative_q/</link>
+      <link>https://cbayes.com/blog/creative_q/</link>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/creative_q/</guid>
+      <guid>https://cbayes.com/blog/creative_q/</guid>
       <description>
         
         
@@ -34,24 +34,25 @@
     
     <item>
       <title>Cutting Images</title>
-      <link>http://localhost:1313/blog/image_mirror/</link>
+      <link>https://cbayes.com/blog/image_mirror/</link>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/image_mirror/</guid>
+      <guid>https://cbayes.com/blog/image_mirror/</guid>
       <description>
         
         
         &lt;p&gt;The following is a little test module I was building in order to take some time and understand the OpenFrameworks APIs when it came to images.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/53400733220_5ca32e6dea_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>Genuary 2023</title>
-      <link>http://localhost:1313/blog/genuary_2023/</link>
+      <link>https://cbayes.com/blog/genuary_2023/</link>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/genuary_2023/</guid>
+      <guid>https://cbayes.com/blog/genuary_2023/</guid>
       <description>
         
         
@@ -90,10 +91,10 @@
     
     <item>
       <title>Synthetic Sequences</title>
-      <link>http://localhost:1313/blog/synthetic_sequences/</link>
+      <link>https://cbayes.com/blog/synthetic_sequences/</link>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/synthetic_sequences/</guid>
+      <guid>https://cbayes.com/blog/synthetic_sequences/</guid>
       <description>
         
         
@@ -106,10 +107,10 @@
     
     <item>
       <title>Physical Calligraphy</title>
-      <link>http://localhost:1313/blog/calligraphy/</link>
+      <link>https://cbayes.com/blog/calligraphy/</link>
       <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/calligraphy/</guid>
+      <guid>https://cbayes.com/blog/calligraphy/</guid>
       <description>
         
         
@@ -121,10 +122,10 @@
     
     <item>
       <title>Synthetic Sequences</title>
-      <link>http://localhost:1313/blog/creative_coding_environment/</link>
+      <link>https://cbayes.com/blog/creative_coding_environment/</link>
       <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/creative_coding_environment/</guid>
+      <guid>https://cbayes.com/blog/creative_coding_environment/</guid>
       <description>
         
         
@@ -136,24 +137,25 @@
     
     <item>
       <title>Generative Art -  The Story, It&#39;s Uses, and Future</title>
-      <link>http://localhost:1313/blog/generative_book/</link>
+      <link>https://cbayes.com/blog/generative_book/</link>
       <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/generative_book/</guid>
+      <guid>https://cbayes.com/blog/generative_book/</guid>
       <description>
         
         
         &lt;p&gt;Can see the book &lt;a href=&#34;https://cbayes.gitbook.io/generative-art-the-story-its-uses-and-future/part-1-history/1970s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/53406092770_c09004c823_o_d.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>Interview - Tyler Hobbs</title>
-      <link>http://localhost:1313/blog/tyler_hobbs/</link>
+      <link>https://cbayes.com/blog/tyler_hobbs/</link>
       <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/tyler_hobbs/</guid>
+      <guid>https://cbayes.com/blog/tyler_hobbs/</guid>
       <description>
         
         
@@ -164,10 +166,10 @@
     
     <item>
       <title>Determining Heartbeat from iPhone Camera</title>
-      <link>http://localhost:1313/blog/heartbeat_using_iphone/</link>
+      <link>https://cbayes.com/blog/heartbeat_using_iphone/</link>
       <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/heartbeat_using_iphone/</guid>
+      <guid>https://cbayes.com/blog/heartbeat_using_iphone/</guid>
       <description>
         
         
@@ -180,14 +182,15 @@
     
     <item>
       <title>Creative Sinkholes</title>
-      <link>http://localhost:1313/blog/creative_sinkholes/</link>
+      <link>https://cbayes.com/blog/creative_sinkholes/</link>
       <pubDate>Sat, 04 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/creative_sinkholes/</guid>
+      <guid>https://cbayes.com/blog/creative_sinkholes/</guid>
       <description>
         
         
         &lt;p&gt;Originally written in 2014 on &lt;a href=&#34;https://medium.com/@generatecoll/98a7168015d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Medium&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/53398436272_c5c3f9034f_o_d.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Believing that something is crap, is creative indigestion. It inhibits your power to create, sucks your soul’s happiness and breeds stress and rejection. It becomes a waste of time, rather than further develop. We discontinue this crap that we have mistaken as no creativity. This is a perception that needs to be overcome and dealt with. But how do you overcome?&lt;/p&gt;
 &lt;h2&gt;1. Don’t Limit your Creativity&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-dont-limit-your-creativity&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#1-dont-limit-your-creativity&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;As people we generally want to be like the Jones. This is inherent; we deem it necessary to survive in the vivacious world of competition. But,&lt;/p&gt;

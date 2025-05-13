@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chris Ried – Entries</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>https://cbayes.com/blog/</link>
     <description>Recent content in Entries on Chris Ried</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Nov 2023 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://cbayes.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>3D Printing Array for Mirrors and Lasers</title>
-      <link>http://localhost:1313/work/laser_mirrors/</link>
+      <link>https://cbayes.com/work/laser_mirrors/</link>
       <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/laser_mirrors/</guid>
+      <guid>https://cbayes.com/work/laser_mirrors/</guid>
       <description>
         
         
@@ -36,10 +36,10 @@
     
     <item>
       <title>CreativeQ</title>
-      <link>http://localhost:1313/blog/creative_q/</link>
+      <link>https://cbayes.com/blog/creative_q/</link>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/creative_q/</guid>
+      <guid>https://cbayes.com/blog/creative_q/</guid>
       <description>
         
         
@@ -53,10 +53,10 @@
     
     <item>
       <title>Cutting Images</title>
-      <link>http://localhost:1313/blog/image_mirror/</link>
+      <link>https://cbayes.com/blog/image_mirror/</link>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/image_mirror/</guid>
+      <guid>https://cbayes.com/blog/image_mirror/</guid>
       <description>
         
         
@@ -68,10 +68,10 @@
     
     <item>
       <title>Genuary 2023</title>
-      <link>http://localhost:1313/blog/genuary_2023/</link>
+      <link>https://cbayes.com/blog/genuary_2023/</link>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/genuary_2023/</guid>
+      <guid>https://cbayes.com/blog/genuary_2023/</guid>
       <description>
         
         
@@ -110,10 +110,10 @@
     
     <item>
       <title>Synthetic Sequences</title>
-      <link>http://localhost:1313/blog/synthetic_sequences/</link>
+      <link>https://cbayes.com/blog/synthetic_sequences/</link>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/synthetic_sequences/</guid>
+      <guid>https://cbayes.com/blog/synthetic_sequences/</guid>
       <description>
         
         
@@ -126,10 +126,10 @@
     
     <item>
       <title>Iceland 2016</title>
-      <link>http://localhost:1313/work/iceland-2023/</link>
+      <link>https://cbayes.com/work/iceland-2023/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/iceland-2023/</guid>
+      <guid>https://cbayes.com/work/iceland-2023/</guid>
       <description>
         
         
@@ -149,10 +149,10 @@
     
     <item>
       <title>Generative Corals</title>
-      <link>http://localhost:1313/work/generative-coral/</link>
+      <link>https://cbayes.com/work/generative-coral/</link>
       <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/generative-coral/</guid>
+      <guid>https://cbayes.com/work/generative-coral/</guid>
       <description>
         
         
@@ -168,10 +168,10 @@
     
     <item>
       <title>Washington 2023</title>
-      <link>http://localhost:1313/work/washington-2023/</link>
+      <link>https://cbayes.com/work/washington-2023/</link>
       <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/washington-2023/</guid>
+      <guid>https://cbayes.com/work/washington-2023/</guid>
       <description>
         
         
@@ -185,10 +185,10 @@
     
     <item>
       <title>Down To Earth</title>
-      <link>http://localhost:1313/work/down_to_earth/</link>
+      <link>https://cbayes.com/work/down_to_earth/</link>
       <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/down_to_earth/</guid>
+      <guid>https://cbayes.com/work/down_to_earth/</guid>
       <description>
         
         
@@ -205,10 +205,10 @@
     
     <item>
       <title>Physical Calligraphy</title>
-      <link>http://localhost:1313/blog/calligraphy/</link>
+      <link>https://cbayes.com/blog/calligraphy/</link>
       <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/calligraphy/</guid>
+      <guid>https://cbayes.com/blog/calligraphy/</guid>
       <description>
         
         
@@ -220,10 +220,10 @@
     
     <item>
       <title>Synthetic Sequences</title>
-      <link>http://localhost:1313/blog/creative_coding_environment/</link>
+      <link>https://cbayes.com/blog/creative_coding_environment/</link>
       <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/creative_coding_environment/</guid>
+      <guid>https://cbayes.com/blog/creative_coding_environment/</guid>
       <description>
         
         
@@ -235,10 +235,10 @@
     
     <item>
       <title>Generative Art -  The Story, It&#39;s Uses, and Future</title>
-      <link>http://localhost:1313/blog/generative_book/</link>
+      <link>https://cbayes.com/blog/generative_book/</link>
       <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/generative_book/</guid>
+      <guid>https://cbayes.com/blog/generative_book/</guid>
       <description>
         
         
@@ -250,10 +250,10 @@
     
     <item>
       <title>Generative AI Coral</title>
-      <link>http://localhost:1313/work/ai_generative_2/</link>
+      <link>https://cbayes.com/work/ai_generative_2/</link>
       <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/ai_generative_2/</guid>
+      <guid>https://cbayes.com/work/ai_generative_2/</guid>
       <description>
         
         
@@ -266,10 +266,10 @@
     
     <item>
       <title>Lined Up Imperfectly</title>
-      <link>http://localhost:1313/work/lined-up-imperfectly/</link>
+      <link>https://cbayes.com/work/lined-up-imperfectly/</link>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/lined-up-imperfectly/</guid>
+      <guid>https://cbayes.com/work/lined-up-imperfectly/</guid>
       <description>
         
         
@@ -281,10 +281,10 @@
     
     <item>
       <title>Not Art</title>
-      <link>http://localhost:1313/work/not-art/</link>
+      <link>https://cbayes.com/work/not-art/</link>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/not-art/</guid>
+      <guid>https://cbayes.com/work/not-art/</guid>
       <description>
         
         
@@ -300,10 +300,10 @@
     
     <item>
       <title>Pixel Line</title>
-      <link>http://localhost:1313/work/pixel-line/</link>
+      <link>https://cbayes.com/work/pixel-line/</link>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/pixel-line/</guid>
+      <guid>https://cbayes.com/work/pixel-line/</guid>
       <description>
         
         
@@ -315,10 +315,10 @@
     
     <item>
       <title>Point Ellipse</title>
-      <link>http://localhost:1313/work/point-ellipse/</link>
+      <link>https://cbayes.com/work/point-ellipse/</link>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/point-ellipse/</guid>
+      <guid>https://cbayes.com/work/point-ellipse/</guid>
       <description>
         
         
@@ -329,10 +329,10 @@
     
     <item>
       <title>Primitive Prophesy</title>
-      <link>http://localhost:1313/work/primitive-prophesy/</link>
+      <link>https://cbayes.com/work/primitive-prophesy/</link>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/primitive-prophesy/</guid>
+      <guid>https://cbayes.com/work/primitive-prophesy/</guid>
       <description>
         
         
@@ -346,10 +346,10 @@
     
     <item>
       <title>Unfortunate Squiggle</title>
-      <link>http://localhost:1313/work/unfortunate-squiggle/</link>
+      <link>https://cbayes.com/work/unfortunate-squiggle/</link>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/unfortunate-squiggle/</guid>
+      <guid>https://cbayes.com/work/unfortunate-squiggle/</guid>
       <description>
         
         
@@ -361,10 +361,10 @@
     
     <item>
       <title>Granular Blocks of Play</title>
-      <link>http://localhost:1313/work/granular-blocks-of-play/</link>
+      <link>https://cbayes.com/work/granular-blocks-of-play/</link>
       <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/granular-blocks-of-play/</guid>
+      <guid>https://cbayes.com/work/granular-blocks-of-play/</guid>
       <description>
         
         
@@ -375,10 +375,10 @@
     
     <item>
       <title>In The Light</title>
-      <link>http://localhost:1313/work/in-the-light/</link>
+      <link>https://cbayes.com/work/in-the-light/</link>
       <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/in-the-light/</guid>
+      <guid>https://cbayes.com/work/in-the-light/</guid>
       <description>
         
         
@@ -389,10 +389,10 @@
     
     <item>
       <title>Triangulates</title>
-      <link>http://localhost:1313/work/trangulates/</link>
+      <link>https://cbayes.com/work/trangulates/</link>
       <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/trangulates/</guid>
+      <guid>https://cbayes.com/work/trangulates/</guid>
       <description>
         
         
@@ -406,10 +406,10 @@
     
     <item>
       <title>The Wasteland</title>
-      <link>http://localhost:1313/work/the_wasteland/</link>
+      <link>https://cbayes.com/work/the_wasteland/</link>
       <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/the_wasteland/</guid>
+      <guid>https://cbayes.com/work/the_wasteland/</guid>
       <description>
         
         
@@ -446,10 +446,10 @@ I read, much of the night, and go south in the winter.&lt;/p&gt;
     
     <item>
       <title>Japanese Temples</title>
-      <link>http://localhost:1313/work/japanese_temples/</link>
+      <link>https://cbayes.com/work/japanese_temples/</link>
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/japanese_temples/</guid>
+      <guid>https://cbayes.com/work/japanese_temples/</guid>
       <description>
         
         
@@ -462,10 +462,10 @@ I read, much of the night, and go south in the winter.&lt;/p&gt;
     
     <item>
       <title>AI Clothing</title>
-      <link>http://localhost:1313/work/ai_generative_1/</link>
+      <link>https://cbayes.com/work/ai_generative_1/</link>
       <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/ai_generative_1/</guid>
+      <guid>https://cbayes.com/work/ai_generative_1/</guid>
       <description>
         
         
@@ -478,10 +478,10 @@ I read, much of the night, and go south in the winter.&lt;/p&gt;
     
     <item>
       <title>Asemic Palimpsest</title>
-      <link>http://localhost:1313/work/asemic-palimpsest/</link>
+      <link>https://cbayes.com/work/asemic-palimpsest/</link>
       <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/asemic-palimpsest/</guid>
+      <guid>https://cbayes.com/work/asemic-palimpsest/</guid>
       <description>
         
         
@@ -492,10 +492,10 @@ I read, much of the night, and go south in the winter.&lt;/p&gt;
     
     <item>
       <title>Celestial Collisions</title>
-      <link>http://localhost:1313/work/celestial-collisions/</link>
+      <link>https://cbayes.com/work/celestial-collisions/</link>
       <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/celestial-collisions/</guid>
+      <guid>https://cbayes.com/work/celestial-collisions/</guid>
       <description>
         
         
@@ -517,10 +517,10 @@ Designed to be fluid in its presentation, the piece naturally adapts to differen
     
     <item>
       <title>Circular Reasoning</title>
-      <link>http://localhost:1313/work/circular-reasoning/</link>
+      <link>https://cbayes.com/work/circular-reasoning/</link>
       <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/circular-reasoning/</guid>
+      <guid>https://cbayes.com/work/circular-reasoning/</guid>
       <description>
         
         
@@ -531,10 +531,10 @@ Designed to be fluid in its presentation, the piece naturally adapts to differen
     
     <item>
       <title>Interview - Tyler Hobbs</title>
-      <link>http://localhost:1313/blog/tyler_hobbs/</link>
+      <link>https://cbayes.com/blog/tyler_hobbs/</link>
       <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/tyler_hobbs/</guid>
+      <guid>https://cbayes.com/blog/tyler_hobbs/</guid>
       <description>
         
         
@@ -545,10 +545,10 @@ Designed to be fluid in its presentation, the piece naturally adapts to differen
     
     <item>
       <title>Geometric Meditations</title>
-      <link>http://localhost:1313/work/geometric-meditations/</link>
+      <link>https://cbayes.com/work/geometric-meditations/</link>
       <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/geometric-meditations/</guid>
+      <guid>https://cbayes.com/work/geometric-meditations/</guid>
       <description>
         
         
@@ -559,10 +559,10 @@ Designed to be fluid in its presentation, the piece naturally adapts to differen
     
     <item>
       <title>Dark City</title>
-      <link>http://localhost:1313/work/dark-city/</link>
+      <link>https://cbayes.com/work/dark-city/</link>
       <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/dark-city/</guid>
+      <guid>https://cbayes.com/work/dark-city/</guid>
       <description>
         
         
@@ -574,10 +574,10 @@ One of the things about light, is that it spreads and has this interesting sprea
     
     <item>
       <title>Everyday Luxury in Nines</title>
-      <link>http://localhost:1313/work/everyday-luxury-in-nines/</link>
+      <link>https://cbayes.com/work/everyday-luxury-in-nines/</link>
       <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/everyday-luxury-in-nines/</guid>
+      <guid>https://cbayes.com/work/everyday-luxury-in-nines/</guid>
       <description>
         
         
@@ -588,10 +588,10 @@ One of the things about light, is that it spreads and has this interesting sprea
     
     <item>
       <title>Filled In Spaces</title>
-      <link>http://localhost:1313/work/filled-in-space/</link>
+      <link>https://cbayes.com/work/filled-in-space/</link>
       <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/filled-in-space/</guid>
+      <guid>https://cbayes.com/work/filled-in-space/</guid>
       <description>
         
         
@@ -603,10 +603,10 @@ One of the things about light, is that it spreads and has this interesting sprea
     
     <item>
       <title>Like the Emperors Robe</title>
-      <link>http://localhost:1313/work/like-the-emperors-robe/</link>
+      <link>https://cbayes.com/work/like-the-emperors-robe/</link>
       <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/like-the-emperors-robe/</guid>
+      <guid>https://cbayes.com/work/like-the-emperors-robe/</guid>
       <description>
         
         
@@ -617,10 +617,10 @@ One of the things about light, is that it spreads and has this interesting sprea
     
     <item>
       <title>End of Summer Reign</title>
-      <link>http://localhost:1313/work/end-of-summer-reign/</link>
+      <link>https://cbayes.com/work/end-of-summer-reign/</link>
       <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/end-of-summer-reign/</guid>
+      <guid>https://cbayes.com/work/end-of-summer-reign/</guid>
       <description>
         
         
@@ -631,10 +631,10 @@ One of the things about light, is that it spreads and has this interesting sprea
     
     <item>
       <title>Turning Winters</title>
-      <link>http://localhost:1313/work/turning-winter/</link>
+      <link>https://cbayes.com/work/turning-winter/</link>
       <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/turning-winter/</guid>
+      <guid>https://cbayes.com/work/turning-winter/</guid>
       <description>
         
         
@@ -645,10 +645,10 @@ One of the things about light, is that it spreads and has this interesting sprea
     
     <item>
       <title>Visualize Overlay</title>
-      <link>http://localhost:1313/work/visualize_overlay/</link>
+      <link>https://cbayes.com/work/visualize_overlay/</link>
       <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/visualize_overlay/</guid>
+      <guid>https://cbayes.com/work/visualize_overlay/</guid>
       <description>
         
         
@@ -661,10 +661,10 @@ One of the things about light, is that it spreads and has this interesting sprea
     
     <item>
       <title>Joshua Tree</title>
-      <link>http://localhost:1313/work/joshua-tree-2018/</link>
+      <link>https://cbayes.com/work/joshua-tree-2018/</link>
       <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/joshua-tree-2018/</guid>
+      <guid>https://cbayes.com/work/joshua-tree-2018/</guid>
       <description>
         
         
@@ -677,10 +677,10 @@ One of the things about light, is that it spreads and has this interesting sprea
     
     <item>
       <title>Smoky Mountains Sundown</title>
-      <link>http://localhost:1313/work/smoky-mountains-1/</link>
+      <link>https://cbayes.com/work/smoky-mountains-1/</link>
       <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/smoky-mountains-1/</guid>
+      <guid>https://cbayes.com/work/smoky-mountains-1/</guid>
       <description>
         
         
@@ -691,10 +691,10 @@ One of the things about light, is that it spreads and has this interesting sprea
     
     <item>
       <title>Determining Heartbeat from iPhone Camera</title>
-      <link>http://localhost:1313/blog/heartbeat_using_iphone/</link>
+      <link>https://cbayes.com/blog/heartbeat_using_iphone/</link>
       <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/heartbeat_using_iphone/</guid>
+      <guid>https://cbayes.com/blog/heartbeat_using_iphone/</guid>
       <description>
         
         
@@ -707,10 +707,10 @@ One of the things about light, is that it spreads and has this interesting sprea
     
     <item>
       <title>Iceland 2016</title>
-      <link>http://localhost:1313/work/iceland-2016/</link>
+      <link>https://cbayes.com/work/iceland-2016/</link>
       <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/iceland-2016/</guid>
+      <guid>https://cbayes.com/work/iceland-2016/</guid>
       <description>
         
         
@@ -729,10 +729,10 @@ One of the things about light, is that it spreads and has this interesting sprea
     
     <item>
       <title>Creative Sinkholes</title>
-      <link>http://localhost:1313/blog/creative_sinkholes/</link>
+      <link>https://cbayes.com/blog/creative_sinkholes/</link>
       <pubDate>Sat, 04 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/creative_sinkholes/</guid>
+      <guid>https://cbayes.com/blog/creative_sinkholes/</guid>
       <description>
         
         
@@ -760,10 +760,10 @@ One of the things about light, is that it spreads and has this interesting sprea
     
     <item>
       <title>Blockchain Analytics</title>
-      <link>http://localhost:1313/blog/blockchain-landscape-2022/</link>
+      <link>https://cbayes.com/blog/blockchain-landscape-2022/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/blockchain-landscape-2022/</guid>
+      <guid>https://cbayes.com/blog/blockchain-landscape-2022/</guid>
       <description>
         
         
@@ -807,10 +807,10 @@ One of the things about light, is that it spreads and has this interesting sprea
     
     <item>
       <title>How to Create Generative Art</title>
-      <link>http://localhost:1313/blog/2022-10-26-how-to-make-generative-art/</link>
+      <link>https://cbayes.com/blog/2022-10-26-how-to-make-generative-art/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/2022-10-26-how-to-make-generative-art/</guid>
+      <guid>https://cbayes.com/blog/2022-10-26-how-to-make-generative-art/</guid>
       <description>
         
         
@@ -865,10 +865,10 @@ This was first published on Twitter as a thread here and then here.&lt;/p&gt;
     
     <item>
       <title>Web3 Landscape (2022)</title>
-      <link>http://localhost:1313/blog/web3-landscape-2022/</link>
+      <link>https://cbayes.com/blog/web3-landscape-2022/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/web3-landscape-2022/</guid>
+      <guid>https://cbayes.com/blog/web3-landscape-2022/</guid>
       <description>
         
         
@@ -901,10 +901,10 @@ This was first published on Twitter as a thread here and then here.&lt;/p&gt;
     
     <item>
       <title>Minimum Distance between a Point and a Line</title>
-      <link>http://localhost:1313/blog/2021-02-20-minimum-distance-point-line/</link>
+      <link>https://cbayes.com/blog/2021-02-20-minimum-distance-point-line/</link>
       <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/2021-02-20-minimum-distance-point-line/</guid>
+      <guid>https://cbayes.com/blog/2021-02-20-minimum-distance-point-line/</guid>
       <description>
         
         
@@ -1029,10 +1029,10 @@ distancePointLineTest &amp;lt;- function() {
     
     <item>
       <title>Using Analytics to Determine Ideal Hashtags for Instagram</title>
-      <link>http://localhost:1313/blog/using-analytics-to-determine-ideal-hashtags/</link>
+      <link>https://cbayes.com/blog/using-analytics-to-determine-ideal-hashtags/</link>
       <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/using-analytics-to-determine-ideal-hashtags/</guid>
+      <guid>https://cbayes.com/blog/using-analytics-to-determine-ideal-hashtags/</guid>
       <description>
         
         
@@ -1195,10 +1195,10 @@ distancePointLineTest &amp;lt;- function() {
     
     <item>
       <title>Introduction to NLP using Python</title>
-      <link>http://localhost:1313/blog/introduction-to-nlp-using-python/</link>
+      <link>https://cbayes.com/blog/introduction-to-nlp-using-python/</link>
       <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/introduction-to-nlp-using-python/</guid>
+      <guid>https://cbayes.com/blog/introduction-to-nlp-using-python/</guid>
       <description>
         
         
@@ -1255,10 +1255,10 @@ patches patch&lt;/p&gt;
     
     <item>
       <title>Bayesian Statistics in R</title>
-      <link>http://localhost:1313/blog/bayesian-statistics-in-r/</link>
+      <link>https://cbayes.com/blog/bayesian-statistics-in-r/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/bayesian-statistics-in-r/</guid>
+      <guid>https://cbayes.com/blog/bayesian-statistics-in-r/</guid>
       <description>
         
         
@@ -1274,10 +1274,10 @@ patches patch&lt;/p&gt;
     
     <item>
       <title>How to Catch Fraud with Deep Learning</title>
-      <link>http://localhost:1313/blog/how-to-catch-fraud-with-deep-learning/</link>
+      <link>https://cbayes.com/blog/how-to-catch-fraud-with-deep-learning/</link>
       <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/how-to-catch-fraud-with-deep-learning/</guid>
+      <guid>https://cbayes.com/blog/how-to-catch-fraud-with-deep-learning/</guid>
       <description>
         
         

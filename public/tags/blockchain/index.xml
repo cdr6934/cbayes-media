@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chris Ried – Blockchain</title>
-    <link>http://localhost:1313/tags/blockchain/</link>
+    <link>https://cbayes.com/tags/blockchain/</link>
     <description>Recent content in Blockchain on Chris Ried</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 26 Oct 2022 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://cbayes.com/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>Blockchain Analytics</title>
-      <link>http://localhost:1313/blog/blockchain-landscape-2022/</link>
+      <link>https://cbayes.com/blog/blockchain-landscape-2022/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/blockchain-landscape-2022/</guid>
+      <guid>https://cbayes.com/blog/blockchain-landscape-2022/</guid>
       <description>
         
         
@@ -64,10 +64,10 @@
     
     <item>
       <title>Web3 Landscape (2022)</title>
-      <link>http://localhost:1313/blog/web3-landscape-2022/</link>
+      <link>https://cbayes.com/blog/web3-landscape-2022/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/web3-landscape-2022/</guid>
+      <guid>https://cbayes.com/blog/web3-landscape-2022/</guid>
       <description>
         
         

@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chris Ried – Archive</title>
-    <link>http://localhost:1313/tags/archive/</link>
+    <link>https://cbayes.com/tags/archive/</link>
     <description>Recent content in Archive on Chris Ried</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 22 Dec 2023 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/tags/archive/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://cbayes.com/tags/archive/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,14 +17,15 @@
     
     <item>
       <title>3D Printing Array for Mirrors and Lasers</title>
-      <link>http://localhost:1313/work/laser_mirrors/</link>
+      <link>https://cbayes.com/work/laser_mirrors/</link>
       <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/laser_mirrors/</guid>
+      <guid>https://cbayes.com/work/laser_mirrors/</guid>
       <description>
         
         
-        &lt;p&gt;The following project is inspired by exploring what lasers and long exposure photography.&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/53419642852_6af7302611_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;The following project is inspired by exploring what lasers and long exposure photography.&lt;/p&gt;
 &lt;h2&gt;Start&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;start&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#start&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;I used openSCAD to first create a few functions that will give me the raw materials that I needed to start with a flexible &amp;ldquo;pegboard&amp;rdquo; that can be used to distribute mirrors in a specific manner.&lt;/p&gt;
 &lt;p&gt;I bought some adhesive mirrors off of &lt;a href=&#34;https://amzn.to/48ck3lH&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amazon&lt;/a&gt; for $10 as a start. I then created the paddles on which I adhered the mirrors and then created an OpenSCAD function that would provide me the board in which I placed the mirrors. With that created, I started with a basic array of mirrors to see what can be done with them.&lt;/p&gt;
@@ -35,10 +36,10 @@
     
     <item>
       <title>CreativeQ</title>
-      <link>http://localhost:1313/blog/creative_q/</link>
+      <link>https://cbayes.com/blog/creative_q/</link>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/creative_q/</guid>
+      <guid>https://cbayes.com/blog/creative_q/</guid>
       <description>
         
         
@@ -52,24 +53,25 @@
     
     <item>
       <title>Cutting Images</title>
-      <link>http://localhost:1313/blog/image_mirror/</link>
+      <link>https://cbayes.com/blog/image_mirror/</link>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/image_mirror/</guid>
+      <guid>https://cbayes.com/blog/image_mirror/</guid>
       <description>
         
         
         &lt;p&gt;The following is a little test module I was building in order to take some time and understand the OpenFrameworks APIs when it came to images.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/53400733220_5ca32e6dea_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>Genuary 2023</title>
-      <link>http://localhost:1313/blog/genuary_2023/</link>
+      <link>https://cbayes.com/blog/genuary_2023/</link>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/genuary_2023/</guid>
+      <guid>https://cbayes.com/blog/genuary_2023/</guid>
       <description>
         
         
@@ -108,10 +110,10 @@
     
     <item>
       <title>Synthetic Sequences</title>
-      <link>http://localhost:1313/blog/synthetic_sequences/</link>
+      <link>https://cbayes.com/blog/synthetic_sequences/</link>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/synthetic_sequences/</guid>
+      <guid>https://cbayes.com/blog/synthetic_sequences/</guid>
       <description>
         
         
@@ -124,10 +126,10 @@
     
     <item>
       <title>Iceland 2016</title>
-      <link>http://localhost:1313/work/iceland-2023/</link>
+      <link>https://cbayes.com/work/iceland-2023/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/iceland-2023/</guid>
+      <guid>https://cbayes.com/work/iceland-2023/</guid>
       <description>
         
         
@@ -140,20 +142,22 @@
         &lt;/iframe&gt;
       &lt;/div&gt;
 
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/53399929582_2a4202a71a_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>Generative Corals</title>
-      <link>http://localhost:1313/work/generative-coral/</link>
+      <link>https://cbayes.com/work/generative-coral/</link>
       <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/generative-coral/</guid>
+      <guid>https://cbayes.com/work/generative-coral/</guid>
       <description>
         
         
-        &lt;p&gt;This has been an interest of mine for a while. I&amp;rsquo;ve started on this but there is yet much to be done and a continuation of a process that I&amp;rsquo;d like to refine in the next year or so.&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/53334387487_1ed63b42ca_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;This has been an interest of mine for a while. I&amp;rsquo;ve started on this but there is yet much to be done and a continuation of a process that I&amp;rsquo;d like to refine in the next year or so.&lt;/p&gt;
 &lt;p&gt;I used &lt;a href=&#34;https://openscad.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenSCAD&lt;/a&gt; and found that it was quite easy to make some of these images. I didn&amp;rsquo;t realize how easy this was going to be and I have been daunted by the task of 3D modelling. However I&amp;rsquo;ve been taking alot of time to mess with Blender and Houdini to really get a sense on what they can do. This has allowed me to really understnad the terminology that is used in these programs and thus I&amp;rsquo;ve been able to really put that knowledge to work.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/53405224993_ce31fbaf80_b_d.jpg&#34; alt=&#34;OpenSCAD&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;script src=&#34;https://gist.github.com/cdr6934/c76b513ac5e9da1ec8a99e660cbb5b35.js&#34;&gt;&lt;/script&gt;
@@ -164,27 +168,33 @@
     
     <item>
       <title>Washington 2023</title>
-      <link>http://localhost:1313/work/washington-2023/</link>
+      <link>https://cbayes.com/work/washington-2023/</link>
       <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/washington-2023/</guid>
+      <guid>https://cbayes.com/work/washington-2023/</guid>
       <description>
         
         
-        
+        &lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/53343544238_0e6a1c98b4_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;
+&lt;img src=&#34;https://live.staticflickr.com/65535/53342437302_59eaaf08da_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;
+&lt;img src=&#34;https://live.staticflickr.com/65535/53343544268_905a78aa60_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;
+&lt;img src=&#34;https://live.staticflickr.com/65535/53343320556_97baa8d8b7_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
       </description>
     </item>
     
     <item>
-      <title>Down TO Earth</title>
-      <link>http://localhost:1313/work/down_to_earth/</link>
+      <title>Down To Earth</title>
+      <link>https://cbayes.com/work/down_to_earth/</link>
       <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/down_to_earth/</guid>
+      <guid>https://cbayes.com/work/down_to_earth/</guid>
       <description>
         
         
-        &lt;h1&gt;Down To Earth (2023)&lt;/h1&gt;&lt;p&gt;I am writing this on 3/3/2023 at around 1:20 PM while the great winds and potential tornados in Middle Tennessee. It just seemed right to put it out there given the circumstances.&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/53375858278_683732a958_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;
+&lt;img src=&#34;https://live.staticflickr.com/65535/53375678836_dc8d9d4156_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h1&gt;Down To Earth (2023)&lt;/h1&gt;&lt;p&gt;I am writing this on 3/3/2023 at around 1:20 PM while the great winds and potential tornados in Middle Tennessee. It just seemed right to put it out there given the circumstances.&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;Down On Earth and To The Heavens&amp;rdquo; is a generative reflective collection as a depiction of the feelings I have when I think on the subject of living and longevity.&lt;/p&gt;
 &lt;p&gt;The longer we live, the more I just realize that the bustle of life is but noise. Noise that causes grief, anxiety, and the other drama that comes with it. Yet when we get a 10,000 ft view, we realize we are in the hands of nature.&lt;/p&gt;
 &lt;p&gt;There are a few elements that have been added in here that in mind really make me think of these great forces of nature.&lt;/p&gt;
@@ -195,10 +205,10 @@
     
     <item>
       <title>Physical Calligraphy</title>
-      <link>http://localhost:1313/blog/calligraphy/</link>
+      <link>https://cbayes.com/blog/calligraphy/</link>
       <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/calligraphy/</guid>
+      <guid>https://cbayes.com/blog/calligraphy/</guid>
       <description>
         
         
@@ -210,10 +220,10 @@
     
     <item>
       <title>Synthetic Sequences</title>
-      <link>http://localhost:1313/blog/creative_coding_environment/</link>
+      <link>https://cbayes.com/blog/creative_coding_environment/</link>
       <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/creative_coding_environment/</guid>
+      <guid>https://cbayes.com/blog/creative_coding_environment/</guid>
       <description>
         
         
@@ -225,55 +235,61 @@
     
     <item>
       <title>Generative Art -  The Story, It&#39;s Uses, and Future</title>
-      <link>http://localhost:1313/blog/generative_book/</link>
+      <link>https://cbayes.com/blog/generative_book/</link>
       <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/generative_book/</guid>
+      <guid>https://cbayes.com/blog/generative_book/</guid>
       <description>
         
         
         &lt;p&gt;Can see the book &lt;a href=&#34;https://cbayes.gitbook.io/generative-art-the-story-its-uses-and-future/part-1-history/1970s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/53406092770_c09004c823_o_d.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>Generative AI Coral</title>
-      <link>http://localhost:1313/work/ai_generative_2/</link>
+      <link>https://cbayes.com/work/ai_generative_2/</link>
       <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/ai_generative_2/</guid>
+      <guid>https://cbayes.com/work/ai_generative_2/</guid>
       <description>
         
         
-        
+        &lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/53400196990_de8c20abfb_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;
+&lt;img src=&#34;https://live.staticflickr.com/65535/53399766611_117dfe3650_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;
+&lt;img src=&#34;https://live.staticflickr.com/65535/53399954713_1ddbbf0711_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
       </description>
     </item>
     
     <item>
       <title>Lined Up Imperfectly</title>
-      <link>http://localhost:1313/work/lined-up-imperfectly/</link>
+      <link>https://cbayes.com/work/lined-up-imperfectly/</link>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/lined-up-imperfectly/</guid>
+      <guid>https://cbayes.com/work/lined-up-imperfectly/</guid>
       <description>
         
         
-        &lt;h1&gt;Lined Up Imperfectly&lt;/h1&gt;&lt;p&gt;The following images was understanding&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643863569_95d0f62c31_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h1&gt;Lined Up Imperfectly&lt;/h1&gt;&lt;p&gt;The following images was understanding&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>Not Art</title>
-      <link>http://localhost:1313/work/not-art/</link>
+      <link>https://cbayes.com/work/not-art/</link>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/not-art/</guid>
+      <guid>https://cbayes.com/work/not-art/</guid>
       <description>
         
         
-        &lt;h1&gt;Concept&lt;/h1&gt;&lt;p&gt;The idea behind these pieces was me sorting out my own thoughts about NFTs and art. There is so much to be said when money is a contributing factor. It is alluring and it is nice to know that individuals have an interest in the work that you do. But specifically they are interested in the long term effects that you provide with owning a piece of the art that you are collecting.&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/53336668409_ab7e8c53df_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h1&gt;Concept&lt;/h1&gt;&lt;p&gt;The idea behind these pieces was me sorting out my own thoughts about NFTs and art. There is so much to be said when money is a contributing factor. It is alluring and it is nice to know that individuals have an interest in the work that you do. But specifically they are interested in the long term effects that you provide with owning a piece of the art that you are collecting.&lt;/p&gt;
 &lt;p&gt;I think I saw that the drive to make.. fueled by the money was something I needed to reconcile. I love the process of creating and when it started to merge at becoming so upset of not curated status on a project I was working on, well I ended up realizing I needed to step back and reconsider what it means.&lt;/p&gt;
 &lt;p&gt;I am a free market type of person, but I also believe that greed and disatisfaction provide evidence that rationality is not always part of the equation. And it was not something I really needed to understand what I am participating.&lt;/p&gt;
 &lt;p&gt;Like making a living is great, making a living with disposable income is even better.&lt;/p&gt;
@@ -284,41 +300,44 @@
     
     <item>
       <title>Pixel Line</title>
-      <link>http://localhost:1313/work/pixel-line/</link>
+      <link>https://cbayes.com/work/pixel-line/</link>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/pixel-line/</guid>
+      <guid>https://cbayes.com/work/pixel-line/</guid>
       <description>
         
         
-        &lt;h1&gt;Pixel Line&lt;/h1&gt;&lt;p&gt;What I am about to write here is something that will bring some information about the project.&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/53336331591_74ec849562_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h1&gt;Pixel Line&lt;/h1&gt;&lt;p&gt;What I am about to write here is something that will bring some information about the project.&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>Point Ellipse</title>
-      <link>http://localhost:1313/work/point-ellipse/</link>
+      <link>https://cbayes.com/work/point-ellipse/</link>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/point-ellipse/</guid>
+      <guid>https://cbayes.com/work/point-ellipse/</guid>
       <description>
         
         
-        
+        &lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/53336689424_ff502fecac_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
       </description>
     </item>
     
     <item>
       <title>Primitive Prophesy</title>
-      <link>http://localhost:1313/work/primitive-prophesy/</link>
+      <link>https://cbayes.com/work/primitive-prophesy/</link>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/primitive-prophesy/</guid>
+      <guid>https://cbayes.com/work/primitive-prophesy/</guid>
       <description>
         
         
-        &lt;h1&gt;Primitive Prophesy&lt;/h1&gt;&lt;p&gt;These were originally added to the Tezos network in 2021 as my first curated long-form project. They can be found on &lt;a href=&#34;https://objkt.com/asset/hicetnunc/228810&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Objkt&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643147339_02cb1fd957_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h1&gt;Primitive Prophesy&lt;/h1&gt;&lt;p&gt;These were originally added to the Tezos network in 2021 as my first curated long-form project. They can be found on &lt;a href=&#34;https://objkt.com/asset/hicetnunc/228810&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Objkt&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;What I am about to write here is something that will bring some information about the project.&lt;/p&gt;
 &lt;p&gt;The set of images are part of the exploration of the primitive elements, sticks and earth tones. I wanted to explore how simplicity can bring both chaos and order to the same generative agent that is creating these images. You can find more on Twitter @generatecoll or Instagram @generate.collective (2021)&lt;/p&gt;
 
@@ -327,54 +346,59 @@
     
     <item>
       <title>Unfortunate Squiggle</title>
-      <link>http://localhost:1313/work/unfortunate-squiggle/</link>
+      <link>https://cbayes.com/work/unfortunate-squiggle/</link>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/unfortunate-squiggle/</guid>
+      <guid>https://cbayes.com/work/unfortunate-squiggle/</guid>
       <description>
         
         
-        &lt;h1&gt;Just a test&lt;/h1&gt;&lt;p&gt;What I am about to write here is something that will bring some information about the project.&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/53335240221_a82ce35016_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h1&gt;Just a test&lt;/h1&gt;&lt;p&gt;What I am about to write here is something that will bring some information about the project.&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>Granular Blocks of Play</title>
-      <link>http://localhost:1313/work/granular-blocks-of-play/</link>
+      <link>https://cbayes.com/work/granular-blocks-of-play/</link>
       <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/granular-blocks-of-play/</guid>
+      <guid>https://cbayes.com/work/granular-blocks-of-play/</guid>
       <description>
         
         
-        
+        &lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52634492525_45790feec6_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
       </description>
     </item>
     
     <item>
       <title>In The Light</title>
-      <link>http://localhost:1313/work/in-the-light/</link>
+      <link>https://cbayes.com/work/in-the-light/</link>
       <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/in-the-light/</guid>
+      <guid>https://cbayes.com/work/in-the-light/</guid>
       <description>
         
         
-        
+        &lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643217434_965657ab47_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
       </description>
     </item>
     
     <item>
       <title>Triangulates</title>
-      <link>http://localhost:1313/work/trangulates/</link>
+      <link>https://cbayes.com/work/trangulates/</link>
       <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/trangulates/</guid>
+      <guid>https://cbayes.com/work/trangulates/</guid>
       <description>
         
         
-        &lt;p&gt;What I just love about this is the graininess added to create certain images to be more blurry. This can be made with shaders, but there is something beautiful when using simply &amp;ldquo;pixels&amp;rdquo; to paint certain elements of the image. Computationally more expensive?&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/53405308184_30f2575b6f_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;
+&lt;img src=&#34;https://live.staticflickr.com/65535/53405308179_94649bc1ae_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;What I just love about this is the graininess added to create certain images to be more blurry. This can be made with shaders, but there is something beautiful when using simply &amp;ldquo;pixels&amp;rdquo; to paint certain elements of the image. Computationally more expensive?&lt;/p&gt;
 &lt;p&gt;Yes. But it does have to beg the question, does efficiency always inquire something beyond the work that has been done here.&lt;/p&gt;
 
       </description>
@@ -382,14 +406,15 @@
     
     <item>
       <title>The Wasteland</title>
-      <link>http://localhost:1313/work/the_wasteland/</link>
+      <link>https://cbayes.com/work/the_wasteland/</link>
       <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/the_wasteland/</guid>
+      <guid>https://cbayes.com/work/the_wasteland/</guid>
       <description>
         
         
-        &lt;p&gt;I had been curious what I would get out of the model if I were to feed it The Waste Land by T. S. Eliot.&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/53405029791_21c24ff69e_o_d.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;I had been curious what I would get out of the model if I were to feed it The Waste Land by T. S. Eliot.&lt;/p&gt;
 &lt;p&gt;This isn&amp;rsquo;t the whole thing, but I used the line:&lt;/p&gt;
 &lt;blockquote&gt;
   &lt;p&gt;And when we were children, staying at the archduke&amp;rsquo;s&lt;/p&gt;
@@ -421,23 +446,26 @@ I read, much of the night, and go south in the winter.&lt;/p&gt;
     
     <item>
       <title>Japanese Temples</title>
-      <link>http://localhost:1313/work/japanese_temples/</link>
+      <link>https://cbayes.com/work/japanese_temples/</link>
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/japanese_temples/</guid>
+      <guid>https://cbayes.com/work/japanese_temples/</guid>
       <description>
         
         
-        
+        &lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/53404997186_f436395887_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/53404997121_abfdfca8ab_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/53405319139_8414da59be_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
       </description>
     </item>
     
     <item>
       <title>AI Clothing</title>
-      <link>http://localhost:1313/work/ai_generative_1/</link>
+      <link>https://cbayes.com/work/ai_generative_1/</link>
       <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/ai_generative_1/</guid>
+      <guid>https://cbayes.com/work/ai_generative_1/</guid>
       <description>
         
         
@@ -450,23 +478,24 @@ I read, much of the night, and go south in the winter.&lt;/p&gt;
     
     <item>
       <title>Asemic Palimpsest</title>
-      <link>http://localhost:1313/work/asemic-palimpsest/</link>
+      <link>https://cbayes.com/work/asemic-palimpsest/</link>
       <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/asemic-palimpsest/</guid>
+      <guid>https://cbayes.com/work/asemic-palimpsest/</guid>
       <description>
         
         
-        
+        &lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52644029945_a2e0f4cb6f_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
       </description>
     </item>
     
     <item>
       <title>Celestial Collisions</title>
-      <link>http://localhost:1313/work/celestial-collisions/</link>
+      <link>https://cbayes.com/work/celestial-collisions/</link>
       <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/celestial-collisions/</guid>
+      <guid>https://cbayes.com/work/celestial-collisions/</guid>
       <description>
         
         
@@ -488,23 +517,24 @@ Designed to be fluid in its presentation, the piece naturally adapts to differen
     
     <item>
       <title>Circular Reasoning</title>
-      <link>http://localhost:1313/work/circular-reasoning/</link>
+      <link>https://cbayes.com/work/circular-reasoning/</link>
       <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/circular-reasoning/</guid>
+      <guid>https://cbayes.com/work/circular-reasoning/</guid>
       <description>
         
         
-        
+        &lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/53334363277_8baa3ea08d_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
       </description>
     </item>
     
     <item>
       <title>Interview - Tyler Hobbs</title>
-      <link>http://localhost:1313/blog/tyler_hobbs/</link>
+      <link>https://cbayes.com/blog/tyler_hobbs/</link>
       <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/tyler_hobbs/</guid>
+      <guid>https://cbayes.com/blog/tyler_hobbs/</guid>
       <description>
         
         
@@ -515,141 +545,156 @@ Designed to be fluid in its presentation, the piece naturally adapts to differen
     
     <item>
       <title>Geometric Meditations</title>
-      <link>http://localhost:1313/work/geometric-meditations/</link>
+      <link>https://cbayes.com/work/geometric-meditations/</link>
       <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/geometric-meditations/</guid>
+      <guid>https://cbayes.com/work/geometric-meditations/</guid>
       <description>
         
         
-        
+        &lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52644032610_c9c265a5a1_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
       </description>
     </item>
     
     <item>
       <title>Dark City</title>
-      <link>http://localhost:1313/work/dark-city/</link>
+      <link>https://cbayes.com/work/dark-city/</link>
       <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/dark-city/</guid>
+      <guid>https://cbayes.com/work/dark-city/</guid>
       <description>
         
         
-        &lt;p&gt;One of the things about light, is that it spreads and has this interesting spread over a specific spread of time. What this does is really the opportunity&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643124902_cf4101f720_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;
+One of the things about light, is that it spreads and has this interesting spread over a specific spread of time. What this does is really the opportunity&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>Everyday Luxury in Nines</title>
-      <link>http://localhost:1313/work/everyday-luxury-in-nines/</link>
+      <link>https://cbayes.com/work/everyday-luxury-in-nines/</link>
       <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/everyday-luxury-in-nines/</guid>
+      <guid>https://cbayes.com/work/everyday-luxury-in-nines/</guid>
       <description>
         
         
-        
+        &lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643923804_42a70cdca4_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
       </description>
     </item>
     
     <item>
       <title>Filled In Spaces</title>
-      <link>http://localhost:1313/work/filled-in-space/</link>
+      <link>https://cbayes.com/work/filled-in-space/</link>
       <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/filled-in-space/</guid>
+      <guid>https://cbayes.com/work/filled-in-space/</guid>
       <description>
         
         
-        
+        &lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/53335590499_6a2ba1d679_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;
+&lt;img src=&#34;https://live.staticflickr.com/65535/53335592414_388270880c_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
       </description>
     </item>
     
     <item>
       <title>Like the Emperors Robe</title>
-      <link>http://localhost:1313/work/like-the-emperors-robe/</link>
+      <link>https://cbayes.com/work/like-the-emperors-robe/</link>
       <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/like-the-emperors-robe/</guid>
+      <guid>https://cbayes.com/work/like-the-emperors-robe/</guid>
       <description>
         
         
-        
+        &lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52644126038_219fbfc38c_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
       </description>
     </item>
     
     <item>
       <title>End of Summer Reign</title>
-      <link>http://localhost:1313/work/end-of-summer-reign/</link>
+      <link>https://cbayes.com/work/end-of-summer-reign/</link>
       <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/end-of-summer-reign/</guid>
+      <guid>https://cbayes.com/work/end-of-summer-reign/</guid>
       <description>
         
         
-        
+        &lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52644156323_0bfa265b57_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
       </description>
     </item>
     
     <item>
       <title>Turning Winters</title>
-      <link>http://localhost:1313/work/turning-winter/</link>
+      <link>https://cbayes.com/work/turning-winter/</link>
       <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/turning-winter/</guid>
+      <guid>https://cbayes.com/work/turning-winter/</guid>
       <description>
         
         
-        
+        &lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643675641_ef434f14bd_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
       </description>
     </item>
     
     <item>
       <title>Visualize Overlay</title>
-      <link>http://localhost:1313/work/visualize_overlay/</link>
+      <link>https://cbayes.com/work/visualize_overlay/</link>
       <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/visualize_overlay/</guid>
+      <guid>https://cbayes.com/work/visualize_overlay/</guid>
       <description>
         
         
-        
+        &lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/53404981706_cf24797b68_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;
+&lt;img src=&#34;https://live.staticflickr.com/65535/53405303524_9486088909_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;
+&lt;img src=&#34;https://live.staticflickr.com/65535/53405164218_c0d38d09b0_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
       </description>
     </item>
     
     <item>
       <title>Joshua Tree</title>
-      <link>http://localhost:1313/work/joshua-tree-2018/</link>
+      <link>https://cbayes.com/work/joshua-tree-2018/</link>
       <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/joshua-tree-2018/</guid>
+      <guid>https://cbayes.com/work/joshua-tree-2018/</guid>
       <description>
         
         
-        
+        &lt;p&gt;&lt;img src=&#34;https://unsplash.com/photos/DceD4ZpVSlQ/download?ixid=M3wxMjA3fDB8MXxhbGx8MjZ8fHx8fHwyfHwxNzAwMTIxNjcwfA&amp;amp;force=true&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://unsplash.com/photos/zlooDHqGGSE/download?ixid=M3wxMjA3fDB8MXxhbGx8MjR8fHx8fHwyfHwxNzAwMTIxNjcwfA&amp;amp;force=true&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://unsplash.com/photos/iXAF_YbZ2ow/download?ixid=M3wxMjA3fDB8MXxhbGx8MjV8fHx8fHwyfHwxNzAwMTIxNjcwfA&amp;amp;force=true&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
       </description>
     </item>
     
     <item>
       <title>Smoky Mountains Sundown</title>
-      <link>http://localhost:1313/work/smoky-mountains-1/</link>
+      <link>https://cbayes.com/work/smoky-mountains-1/</link>
       <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/smoky-mountains-1/</guid>
+      <guid>https://cbayes.com/work/smoky-mountains-1/</guid>
       <description>
         
         
-        
+        &lt;p&gt;&lt;img src=&#34;https://unsplash.com/photos/D2NvTDuPME4/download?ixid=M3wxMjA3fDB8MXxhbGx8MzR8fHx8fHwyfHwxNzAwMjYwOTg5fA&amp;amp;force=true&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
       </description>
     </item>
     
     <item>
       <title>Determining Heartbeat from iPhone Camera</title>
-      <link>http://localhost:1313/blog/heartbeat_using_iphone/</link>
+      <link>https://cbayes.com/blog/heartbeat_using_iphone/</link>
       <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/heartbeat_using_iphone/</guid>
+      <guid>https://cbayes.com/blog/heartbeat_using_iphone/</guid>
       <description>
         
         
@@ -662,28 +707,37 @@ Designed to be fluid in its presentation, the piece naturally adapts to differen
     
     <item>
       <title>Iceland 2016</title>
-      <link>http://localhost:1313/work/iceland-2016/</link>
+      <link>https://cbayes.com/work/iceland-2016/</link>
       <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/iceland-2016/</guid>
+      <guid>https://cbayes.com/work/iceland-2016/</guid>
       <description>
         
         
-        &lt;p&gt;Along the black sands, awaits the sun to bring forth the light to all and everyone. After staying overnight in our vehicle; we got up bright and early in order to catch the sun before it rose. It gave us the ability to take a wonderful early morning shot with blue skies. Even though the entire night was full of clouds.&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&#34;https://unsplash.com/photos/suCp1VtE_pA/download?ixid=M3wxMjA3fDB8MXxhbGx8MzN8fHx8fHwyfHwxNzAwMTIxNjcxfA&amp;amp;force=true&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://unsplash.com/photos/z4TwyDCAqnY/download?ixid=M3wxMjA3fDB8MXxhbGx8Nnx8fHx8fDJ8fDE3MDAwNzg2OTl8&amp;amp;force=true&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://unsplash.com/photos/2LqqnrWt3Ig/download?ixid=M3wxMjA3fDB8MXxhbGx8MTd8fHx8fHwyfHwxNzAwMDc4Njk5fA&amp;amp;force=true&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://unsplash.com/photos/kM6B0ic_JfY/download?ixid=M3wxMjA3fDB8MXxhbGx8MTl8fHx8fHwyfHwxNzAwMDc4Njk5fA&amp;amp;force=true&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://unsplash.com/photos/H9e2FWKvgQI/download?ixid=M3wxMjA3fDB8MXxhbGx8MTh8fHx8fHwyfHwxNzAwMTIxNjY2fA&amp;amp;force=true&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://unsplash.com/photos/I_bjlEDTB0g/download?ixid=M3wxMjA3fDB8MXxhbGx8MjF8fHx8fHwyfHwxNzAwMTIxNjcwfA&amp;amp;force=true&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://unsplash.com/photos/suCp1VtE_pA/download?ixid=M3wxMjA3fDB8MXxhbGx8MzN8fHx8fHwyfHwxNzAwMTIxNjcxfA&amp;amp;force=true&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://unsplash.com/photos/79NfyK85Ahc/download?ixid=M3wxMjA3fDB8MXxhbGx8NXx8fHx8fDJ8fDE3MDAwNzg2OTl8&amp;amp;force=true&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Along the black sands, awaits the sun to bring forth the light to all and everyone. After staying overnight in our vehicle; we got up bright and early in order to catch the sun before it rose. It gave us the ability to take a wonderful early morning shot with blue skies. Even though the entire night was full of clouds.&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>Creative Sinkholes</title>
-      <link>http://localhost:1313/blog/creative_sinkholes/</link>
+      <link>https://cbayes.com/blog/creative_sinkholes/</link>
       <pubDate>Sat, 04 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/creative_sinkholes/</guid>
+      <guid>https://cbayes.com/blog/creative_sinkholes/</guid>
       <description>
         
         
         &lt;p&gt;Originally written in 2014 on &lt;a href=&#34;https://medium.com/@generatecoll/98a7168015d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Medium&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/53398436272_c5c3f9034f_o_d.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Believing that something is crap, is creative indigestion. It inhibits your power to create, sucks your soul’s happiness and breeds stress and rejection. It becomes a waste of time, rather than further develop. We discontinue this crap that we have mistaken as no creativity. This is a perception that needs to be overcome and dealt with. But how do you overcome?&lt;/p&gt;
 &lt;h2&gt;1. Don’t Limit your Creativity&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-dont-limit-your-creativity&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#1-dont-limit-your-creativity&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;As people we generally want to be like the Jones. This is inherent; we deem it necessary to survive in the vivacious world of competition. But,&lt;/p&gt;

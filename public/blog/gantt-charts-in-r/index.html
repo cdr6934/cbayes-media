@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html lang="en"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<html lang="en"><head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="robots" content="noindex, nofollow" />
+  <meta name="robots" content="index, follow" />
   <link rel="icon shortcut" href="/favicon.ico" sizes="32x32" />
 <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
 <link rel="icon" href="/favicon-dark.svg" type="image/svg+xml" media="(prefers-color-scheme: dark)" />
@@ -11,7 +11,7 @@
 <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180" />
 <link fetchpriority="low" href="/site.webmanifest" rel="manifest" />
 <title>Gantt Charts in R – Chris Ried</title>
-  <meta name="description" content="In ProgressUsing timevis library(timevis) data &lt;- data.frame( id = 1:4, content = c(&#34;Item one&#34; , &#34;Item two&#34; ,&#34;Ranged item&#34;, &#34;Item four&#34;), start = c(&#34;2016-01-10&#34;, &#34;2016-01-11&#34;, &#34;2016-01-20&#34;, &#34;2016-02-14 15:00:00&#34;), end = c(NA , NA, &#34;2016-02-04&#34;, NA) ) timevis(data) Using DiagrammerR library(tidyr) library(dplyr) library(DiagrammeR) mermaid(&#34; gantt dateFormat YYYY-MM-DD title A Very Nice Gantt Diagram section Basic Tasks This is completed :done, first_1, 2014-01-06, 2014-01-08 This is active :active, first_2, 2014-01-09, 3d Do this later : first_3, after first_2, 5d Do this after that : first_4, after first_3, 5d section Important Things Completed, critical task :crit, done, import_1, 2014-01-06,24h Also done, also critical :crit, done, import_2, after import_1, 2d Doing this important task now :crit, active, import_3, after import_2, 3d Next critical task :crit, import_4, after import_3, 5d section The Extras First extras :active, extras_1, after import_4, 3d Second helping : extras_2, after extras_1, 20h More of the extras : extras_3, after extras_1, 48h &#34;) Using Plotly If you wanted to use a more" /><link rel="canonical" href="http://localhost:1313/blog/gantt-charts-in-r/" itemprop="url" />
+  <meta name="description" content="In ProgressUsing timevis library(timevis) data &lt;- data.frame( id = 1:4, content = c(&#34;Item one&#34; , &#34;Item two&#34; ,&#34;Ranged item&#34;, &#34;Item four&#34;), start = c(&#34;2016-01-10&#34;, &#34;2016-01-11&#34;, &#34;2016-01-20&#34;, &#34;2016-02-14 15:00:00&#34;), end = c(NA , NA, &#34;2016-02-04&#34;, NA) ) timevis(data) Using DiagrammerR library(tidyr) library(dplyr) library(DiagrammeR) mermaid(&#34; gantt dateFormat YYYY-MM-DD title A Very Nice Gantt Diagram section Basic Tasks This is completed :done, first_1, 2014-01-06, 2014-01-08 This is active :active, first_2, 2014-01-09, 3d Do this later : first_3, after first_2, 5d Do this after that : first_4, after first_3, 5d section Important Things Completed, critical task :crit, done, import_1, 2014-01-06,24h Also done, also critical :crit, done, import_2, after import_1, 2d Doing this important task now :crit, active, import_3, after import_2, 3d Next critical task :crit, import_4, after import_3, 5d section The Extras First extras :active, extras_1, after import_4, 3d Second helping : extras_2, after extras_1, 20h More of the extras : extras_3, after extras_1, 48h &#34;) Using Plotly If you wanted to use a more" /><link rel="canonical" href="https://cbayes.com/blog/gantt-charts-in-r/" itemprop="url" />
 
 <meta property="og:title" content="Gantt Charts in R" />
 <meta property="og:description" content="In ProgressUsing timevis
@@ -72,7 +72,7 @@ More of the extras            :               extras_3,   after extras_1, 48h
 Using Plotly
     If you wanted to use a more" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://localhost:1313/blog/gantt-charts-in-r/" /><meta property="article:section" content="blog" />
+<meta property="og:url" content="https://cbayes.com/blog/gantt-charts-in-r/" /><meta property="article:section" content="blog" />
 <meta property="article:published_time" content="2017-10-17T00:00:00+00:00" />
 <meta property="article:modified_time" content="2017-10-17T00:00:00+00:00" />
 
@@ -86,11 +86,12 @@ Using Plotly
   <meta name="twitter:title" content="Gantt Charts in R">
   <meta name="twitter:description" content="In ProgressUsing timevis library(timevis) data &lt;- data.frame( id = 1:4, content = c(&#34;Item one&#34; , &#34;Item two&#34; ,&#34;Ranged item&#34;, &#34;Item four&#34;), start = c(&#34;2016-01-10&#34;, &#34;2016-01-11&#34;, &#34;2016-01-20&#34;, &#34;2016-02-14 15:00:00&#34;), end = c(NA , NA, &#34;2016-02-04&#34;, NA) ) timevis(data) Using DiagrammerR library(tidyr) library(dplyr) library(DiagrammeR) mermaid(&#34; gantt dateFormat YYYY-MM-DD title A Very Nice Gantt Diagram section Basic Tasks This is completed :done, first_1, 2014-01-06, 2014-01-08 This is active :active, first_2, 2014-01-09, 3d Do this later : first_3, after first_2, 5d Do this after that : first_4, after first_3, 5d section Important Things Completed, critical task :crit, done, import_1, 2014-01-06,24h Also done, also critical :crit, done, import_2, after import_1, 2d Doing this important task now :crit, active, import_3, after import_2, 3d Next critical task :crit, import_4, after import_3, 5d section The Extras First extras :active, extras_1, after import_4, 3d Second helping : extras_2, after extras_1, 20h More of the extras : extras_3, after extras_1, 48h &#34;) Using Plotly If you wanted to use a more">
 
-    <link href="/css/compiled/main.css" rel="stylesheet" />
+    <link rel="preload" href="/css/compiled/main.min.9a2a4c6e602ce30f10fa86afbb1ce624db853742eeccc2e954764594ee62c18f.css" as="style" integrity="sha256-mipMbmAs4w8Q&#43;oavuxzmJNuFN0LuzMLpVHZFlO5iwY8=" />
+    <link href="/css/compiled/main.min.9a2a4c6e602ce30f10fa86afbb1ce624db853742eeccc2e954764594ee62c18f.css" rel="stylesheet" integrity="sha256-mipMbmAs4w8Q&#43;oavuxzmJNuFN0LuzMLpVHZFlO5iwY8=" />
 
 
 
-  <link href="/css/custom.css" rel="stylesheet" />
+  <link href="/css/custom.min.e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css" rel="stylesheet" integrity="sha256-47DEQpj8HBSa&#43;/TImW&#43;5JCeuQeRkm5NMpJWZG3hSuFU=" />
 
 
   <script>
@@ -284,7 +285,7 @@ Using Plotly
       hx-text-gray-500 hover:hx-bg-gray-100 hover:hx-text-gray-900 contrast-more:hx-border contrast-more:hx-border-transparent contrast-more:hx-text-gray-900 contrast-more:hover:hx-border-gray-900 dark:hx-text-neutral-400 dark:hover:hx-bg-primary-100/5 dark:hover:hx-text-gray-50 contrast-more:dark:hx-text-gray-50 contrast-more:dark:hover:hx-border-gray-50"
     href="/work/down_to_earth/"
     
-  >Down TO Earth
+  >Down To Earth
     </a>
               
             </li><li class="hx-flex hx-flex-col "><a
@@ -1036,7 +1037,7 @@ Using Plotly
   </a></div></div>
       </div></footer>
     
-    <script defer src="/js/main.js" integrity=""></script>
+    <script defer src="/js/main.min.0942239592f0795dc7213dd1057fd229d7edc19c0ef1a285396eb292d9ca9842.js" integrity="sha256-CUIjlZLweV3HIT3RBX/SKdftwZwO8aKFOW6yktnKmEI="></script>
 
   </body>
 </html>

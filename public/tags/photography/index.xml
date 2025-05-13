@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chris Ried – Photography</title>
-    <link>http://localhost:1313/tags/photography/</link>
+    <link>https://cbayes.com/tags/photography/</link>
     <description>Recent content in Photography on Chris Ried</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/tags/photography/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://cbayes.com/tags/photography/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>Iceland 2016</title>
-      <link>http://localhost:1313/work/iceland-2023/</link>
+      <link>https://cbayes.com/work/iceland-2023/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/iceland-2023/</guid>
+      <guid>https://cbayes.com/work/iceland-2023/</guid>
       <description>
         
         
@@ -33,59 +33,76 @@
         &lt;/iframe&gt;
       &lt;/div&gt;
 
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/53399929582_2a4202a71a_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>Washington 2023</title>
-      <link>http://localhost:1313/work/washington-2023/</link>
+      <link>https://cbayes.com/work/washington-2023/</link>
       <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/washington-2023/</guid>
+      <guid>https://cbayes.com/work/washington-2023/</guid>
       <description>
         
         
-        
+        &lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/53343544238_0e6a1c98b4_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;
+&lt;img src=&#34;https://live.staticflickr.com/65535/53342437302_59eaaf08da_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;
+&lt;img src=&#34;https://live.staticflickr.com/65535/53343544268_905a78aa60_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;
+&lt;img src=&#34;https://live.staticflickr.com/65535/53343320556_97baa8d8b7_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
       </description>
     </item>
     
     <item>
       <title>Joshua Tree</title>
-      <link>http://localhost:1313/work/joshua-tree-2018/</link>
+      <link>https://cbayes.com/work/joshua-tree-2018/</link>
       <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/joshua-tree-2018/</guid>
+      <guid>https://cbayes.com/work/joshua-tree-2018/</guid>
       <description>
         
         
-        
+        &lt;p&gt;&lt;img src=&#34;https://unsplash.com/photos/DceD4ZpVSlQ/download?ixid=M3wxMjA3fDB8MXxhbGx8MjZ8fHx8fHwyfHwxNzAwMTIxNjcwfA&amp;amp;force=true&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://unsplash.com/photos/zlooDHqGGSE/download?ixid=M3wxMjA3fDB8MXxhbGx8MjR8fHx8fHwyfHwxNzAwMTIxNjcwfA&amp;amp;force=true&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://unsplash.com/photos/iXAF_YbZ2ow/download?ixid=M3wxMjA3fDB8MXxhbGx8MjV8fHx8fHwyfHwxNzAwMTIxNjcwfA&amp;amp;force=true&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
       </description>
     </item>
     
     <item>
       <title>Smoky Mountains Sundown</title>
-      <link>http://localhost:1313/work/smoky-mountains-1/</link>
+      <link>https://cbayes.com/work/smoky-mountains-1/</link>
       <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/smoky-mountains-1/</guid>
+      <guid>https://cbayes.com/work/smoky-mountains-1/</guid>
       <description>
         
         
-        
+        &lt;p&gt;&lt;img src=&#34;https://unsplash.com/photos/D2NvTDuPME4/download?ixid=M3wxMjA3fDB8MXxhbGx8MzR8fHx8fHwyfHwxNzAwMjYwOTg5fA&amp;amp;force=true&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
       </description>
     </item>
     
     <item>
       <title>Iceland 2016</title>
-      <link>http://localhost:1313/work/iceland-2016/</link>
+      <link>https://cbayes.com/work/iceland-2016/</link>
       <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/iceland-2016/</guid>
+      <guid>https://cbayes.com/work/iceland-2016/</guid>
       <description>
         
         
-        &lt;p&gt;Along the black sands, awaits the sun to bring forth the light to all and everyone. After staying overnight in our vehicle; we got up bright and early in order to catch the sun before it rose. It gave us the ability to take a wonderful early morning shot with blue skies. Even though the entire night was full of clouds.&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&#34;https://unsplash.com/photos/suCp1VtE_pA/download?ixid=M3wxMjA3fDB8MXxhbGx8MzN8fHx8fHwyfHwxNzAwMTIxNjcxfA&amp;amp;force=true&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://unsplash.com/photos/z4TwyDCAqnY/download?ixid=M3wxMjA3fDB8MXxhbGx8Nnx8fHx8fDJ8fDE3MDAwNzg2OTl8&amp;amp;force=true&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://unsplash.com/photos/2LqqnrWt3Ig/download?ixid=M3wxMjA3fDB8MXxhbGx8MTd8fHx8fHwyfHwxNzAwMDc4Njk5fA&amp;amp;force=true&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://unsplash.com/photos/kM6B0ic_JfY/download?ixid=M3wxMjA3fDB8MXxhbGx8MTl8fHx8fHwyfHwxNzAwMDc4Njk5fA&amp;amp;force=true&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://unsplash.com/photos/H9e2FWKvgQI/download?ixid=M3wxMjA3fDB8MXxhbGx8MTh8fHx8fHwyfHwxNzAwMTIxNjY2fA&amp;amp;force=true&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://unsplash.com/photos/I_bjlEDTB0g/download?ixid=M3wxMjA3fDB8MXxhbGx8MjF8fHx8fHwyfHwxNzAwMTIxNjcwfA&amp;amp;force=true&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://unsplash.com/photos/suCp1VtE_pA/download?ixid=M3wxMjA3fDB8MXxhbGx8MzN8fHx8fHwyfHwxNzAwMTIxNjcxfA&amp;amp;force=true&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://unsplash.com/photos/79NfyK85Ahc/download?ixid=M3wxMjA3fDB8MXxhbGx8NXx8fHx8fDJ8fDE3MDAwNzg2OTl8&amp;amp;force=true&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Along the black sands, awaits the sun to bring forth the light to all and everyone. After staying overnight in our vehicle; we got up bright and early in order to catch the sun before it rose. It gave us the ability to take a wonderful early morning shot with blue skies. Even though the entire night was full of clouds.&lt;/p&gt;
 
       </description>
     </item>

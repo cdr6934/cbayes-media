@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chris Ried – Generative Art</title>
-    <link>http://localhost:1313/tags/generative-art/</link>
+    <link>https://cbayes.com/tags/generative-art/</link>
     <description>Recent content in Generative Art on Chris Ried</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 26 Oct 2022 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/tags/generative-art/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://cbayes.com/tags/generative-art/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>How to Create Generative Art</title>
-      <link>http://localhost:1313/blog/2022-10-26-how-to-make-generative-art/</link>
+      <link>https://cbayes.com/blog/2022-10-26-how-to-make-generative-art/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/2022-10-26-how-to-make-generative-art/</guid>
+      <guid>https://cbayes.com/blog/2022-10-26-how-to-make-generative-art/</guid>
       <description>
         
         

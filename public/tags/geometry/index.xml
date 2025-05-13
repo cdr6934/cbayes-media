@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chris Ried – Geometry</title>
-    <link>http://localhost:1313/tags/geometry/</link>
+    <link>https://cbayes.com/tags/geometry/</link>
     <description>Recent content in Geometry on Chris Ried</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Feb 2021 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/tags/geometry/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://cbayes.com/tags/geometry/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>Minimum Distance between a Point and a Line</title>
-      <link>http://localhost:1313/blog/2021-02-20-minimum-distance-point-line/</link>
+      <link>https://cbayes.com/blog/2021-02-20-minimum-distance-point-line/</link>
       <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/2021-02-20-minimum-distance-point-line/</guid>
+      <guid>https://cbayes.com/blog/2021-02-20-minimum-distance-point-line/</guid>
       <description>
         
         

@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html lang="en"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<html lang="en"><head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="robots" content="noindex, nofollow" />
+  <meta name="robots" content="index, follow" />
   <link rel="icon shortcut" href="/favicon.ico" sizes="32x32" />
 <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
 <link rel="icon" href="/favicon-dark.svg" type="image/svg+xml" media="(prefers-color-scheme: dark)" />
@@ -13,7 +13,7 @@
 <title>Text Generation – Chris Ried</title>
   <meta name="description" content="IN PROGRESSText Generation (Generative Texr) is a very interesting field of study. There are a number of different packages that help generate the lists of words to give the user a better understanding of the technology.
 Tracery The following Node library gives a structure which is used to generate random words that are assigned to lexical structure that is defined by the user.
-centar : { animal : [&#34;wolf&#34;,&#34;bear&#34;,&#34;tiger&#34;,&#34;lion&#34;,&#34;snake&#34;,&#34;anteater&#34;], fruit : [&#34;banana&#34;,&#34;tomato&#34;,&#34;cherry&#34;,&#34;strawberry&#34;,&#34;starfruit&#34;], said : [&#34;purring&#34;, &#34;whispering&#34;, &#34;saying&#34;, &#34;murmurring&#34;, &#34;growling&#34;], timeofday : [&#34;morning&#34;,&#34;evening&#34;,&#34;dusk&#34;,&#34;dawn&#34;,&#34;afternoon&#34;,&#34;breakfast&#34;,&#34;breakfast&#34;], lastSyl : &#34;a ia ea u y en am is on an o io i el ios ax ox ix ex izz ius ian ean ekang anth&#34;.split(&#34; &#34;), vipTitle : [&#34;Dr.&#34;, &#34;Professor&#34;, &#34;Lord&#34;, &#34;Sir&#34;, &#34;Captain&#34;, &#34;His Majesty&#34;], response : [&#34;#animal# love #fruit##lastSyl#&#34;, &#34;#animal# #said# at #timeofday#&#34;, &#34;#lastSyl##lastSyl#&#34;], &#34;origin&#34; : &#34;&lt;h3&gt;#vipTitle# Watson, let me tell you of a #response#&lt;/h3&gt;&#34; } The following API" /><link rel="canonical" href="http://localhost:1313/blog/text-generation/" itemprop="url" />
+centar : { animal : [&#34;wolf&#34;,&#34;bear&#34;,&#34;tiger&#34;,&#34;lion&#34;,&#34;snake&#34;,&#34;anteater&#34;], fruit : [&#34;banana&#34;,&#34;tomato&#34;,&#34;cherry&#34;,&#34;strawberry&#34;,&#34;starfruit&#34;], said : [&#34;purring&#34;, &#34;whispering&#34;, &#34;saying&#34;, &#34;murmurring&#34;, &#34;growling&#34;], timeofday : [&#34;morning&#34;,&#34;evening&#34;,&#34;dusk&#34;,&#34;dawn&#34;,&#34;afternoon&#34;,&#34;breakfast&#34;,&#34;breakfast&#34;], lastSyl : &#34;a ia ea u y en am is on an o io i el ios ax ox ix ex izz ius ian ean ekang anth&#34;.split(&#34; &#34;), vipTitle : [&#34;Dr.&#34;, &#34;Professor&#34;, &#34;Lord&#34;, &#34;Sir&#34;, &#34;Captain&#34;, &#34;His Majesty&#34;], response : [&#34;#animal# love #fruit##lastSyl#&#34;, &#34;#animal# #said# at #timeofday#&#34;, &#34;#lastSyl##lastSyl#&#34;], &#34;origin&#34; : &#34;&lt;h3&gt;#vipTitle# Watson, let me tell you of a #response#&lt;/h3&gt;&#34; } The following API" /><link rel="canonical" href="https://cbayes.com/blog/text-generation/" itemprop="url" />
 
 <meta property="og:title" content="Text Generation" />
 <meta property="og:description" content="IN PROGRESSText Generation (Generative Texr) is a very interesting field of study. There are a number of different packages that help generate the lists of words to give the user a better understanding of the technology.
@@ -42,7 +42,7 @@ The following Node library gives a structure which is used to generate random wo
 
 The following API" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://localhost:1313/blog/text-generation/" /><meta property="article:section" content="blog" />
+<meta property="og:url" content="https://cbayes.com/blog/text-generation/" /><meta property="article:section" content="blog" />
 <meta property="article:published_time" content="2017-11-03T00:00:00+00:00" />
 <meta property="article:modified_time" content="2017-11-03T00:00:00+00:00" />
 
@@ -60,11 +60,12 @@ centar : { animal : [&#34;wolf&#34;,&#34;bear&#34;,&#34;tiger&#34;,&#34;lion&#34
 Tracery The following Node library gives a structure which is used to generate random words that are assigned to lexical structure that is defined by the user.
 centar : { animal : [&#34;wolf&#34;,&#34;bear&#34;,&#34;tiger&#34;,&#34;lion&#34;,&#34;snake&#34;,&#34;anteater&#34;], fruit : [&#34;banana&#34;,&#34;tomato&#34;,&#34;cherry&#34;,&#34;strawberry&#34;,&#34;starfruit&#34;], said : [&#34;purring&#34;, &#34;whispering&#34;, &#34;saying&#34;, &#34;murmurring&#34;, &#34;growling&#34;], timeofday : [&#34;morning&#34;,&#34;evening&#34;,&#34;dusk&#34;,&#34;dawn&#34;,&#34;afternoon&#34;,&#34;breakfast&#34;,&#34;breakfast&#34;], lastSyl : &#34;a ia ea u y en am is on an o io i el ios ax ox ix ex izz ius ian ean ekang anth&#34;.split(&#34; &#34;), vipTitle : [&#34;Dr.&#34;, &#34;Professor&#34;, &#34;Lord&#34;, &#34;Sir&#34;, &#34;Captain&#34;, &#34;His Majesty&#34;], response : [&#34;#animal# love #fruit##lastSyl#&#34;, &#34;#animal# #said# at #timeofday#&#34;, &#34;#lastSyl##lastSyl#&#34;], &#34;origin&#34; : &#34;&lt;h3&gt;#vipTitle# Watson, let me tell you of a #response#&lt;/h3&gt;&#34; } The following API">
 
-    <link href="/css/compiled/main.css" rel="stylesheet" />
+    <link rel="preload" href="/css/compiled/main.min.9a2a4c6e602ce30f10fa86afbb1ce624db853742eeccc2e954764594ee62c18f.css" as="style" integrity="sha256-mipMbmAs4w8Q&#43;oavuxzmJNuFN0LuzMLpVHZFlO5iwY8=" />
+    <link href="/css/compiled/main.min.9a2a4c6e602ce30f10fa86afbb1ce624db853742eeccc2e954764594ee62c18f.css" rel="stylesheet" integrity="sha256-mipMbmAs4w8Q&#43;oavuxzmJNuFN0LuzMLpVHZFlO5iwY8=" />
 
 
 
-  <link href="/css/custom.css" rel="stylesheet" />
+  <link href="/css/custom.min.e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css" rel="stylesheet" integrity="sha256-47DEQpj8HBSa&#43;/TImW&#43;5JCeuQeRkm5NMpJWZG3hSuFU=" />
 
 
   <script>
@@ -258,7 +259,7 @@ centar : { animal : [&#34;wolf&#34;,&#34;bear&#34;,&#34;tiger&#34;,&#34;lion&#34
       hx-text-gray-500 hover:hx-bg-gray-100 hover:hx-text-gray-900 contrast-more:hx-border contrast-more:hx-border-transparent contrast-more:hx-text-gray-900 contrast-more:hover:hx-border-gray-900 dark:hx-text-neutral-400 dark:hover:hx-bg-primary-100/5 dark:hover:hx-text-gray-50 contrast-more:dark:hx-text-gray-50 contrast-more:dark:hover:hx-border-gray-50"
     href="/work/down_to_earth/"
     
-  >Down TO Earth
+  >Down To Earth
     </a>
               
             </li><li class="hx-flex hx-flex-col "><a
@@ -915,7 +916,7 @@ centar : { animal : [&#34;wolf&#34;,&#34;bear&#34;,&#34;tiger&#34;,&#34;lion&#34
   </a></div></div>
       </div></footer>
     
-    <script defer src="/js/main.js" integrity=""></script>
+    <script defer src="/js/main.min.0942239592f0795dc7213dd1057fd229d7edc19c0ef1a285396eb292d9ca9842.js" integrity="sha256-CUIjlZLweV3HIT3RBX/SKdftwZwO8aKFOW6yktnKmEI="></script>
 
   </body>
 </html>

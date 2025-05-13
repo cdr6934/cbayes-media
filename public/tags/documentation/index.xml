@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chris Ried – Documentation</title>
-    <link>http://localhost:1313/tags/documentation/</link>
+    <link>https://cbayes.com/tags/documentation/</link>
     <description>Recent content in Documentation on Chris Ried</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 11 Nov 2017 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/tags/documentation/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://cbayes.com/tags/documentation/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>Timeseries Analysis Using R and Advantager</title>
-      <link>http://localhost:1313/blog/timeseries-analysis-using-r-and-advantager/</link>
+      <link>https://cbayes.com/blog/timeseries-analysis-using-r-and-advantager/</link>
       <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/timeseries-analysis-using-r-and-advantager/</guid>
+      <guid>https://cbayes.com/blog/timeseries-analysis-using-r-and-advantager/</guid>
       <description>
         
         
@@ -99,10 +99,10 @@
     
     <item>
       <title>Tips on Creating Effective and Functional Documentation in R</title>
-      <link>http://localhost:1313/blog/tips-creating-functional-documention/</link>
+      <link>https://cbayes.com/blog/tips-creating-functional-documention/</link>
       <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/tips-creating-functional-documention/</guid>
+      <guid>https://cbayes.com/blog/tips-creating-functional-documention/</guid>
       <description>
         
         
