@@ -1,0 +1,147 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chris Ried – Data Analysis</title>
+    <link>http://localhost:1313/tags/data-analysis/</link>
+    <description>Recent content in Data Analysis on Chris Ried</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Feb 2021 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/tags/data-analysis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Minimum Distance between a Point and a Line</title>
+      <link>http://localhost:1313/blog/2021-02-20-minimum-distance-point-line/</link>
+      <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2021-02-20-minimum-distance-point-line/</guid>
+      <description>
+        
+        
+        &lt;p&gt;This has been transcribed from an earlier post of the internet. I felt as though it might be good to rewrite and also include some of the information that is part of the&lt;/p&gt;
+&lt;p&gt;This note describes the technique and gives the solution to finding the shortest distance from a point to a line or line segment. The equation of a line defined through two points \(P_1\) \((x1,y1)\) and \(P_2\) \((x2,y2)\) is&lt;/p&gt;
+&lt;p&gt;$$
+P = P_1 + u(P_2-P_1)
+$$&lt;/p&gt;
+&lt;p&gt;TODO: ADD IMAGE TO SHOW LINE&lt;/p&gt;
+&lt;p&gt;The point \(P_3\) \((x3,y3)\) is closest to the line at the tangent to the line which passes through \(P_3\), that is, the dot product of the tangent and line is 0, thus&lt;/p&gt;
+&lt;p&gt;$$
+(P_3-P)\cdot(P_2-P_1)=0
+$$
+Substituting the equation of the line gives
+$$
+[P_3-P_1-u(P_2-P_1)]\cdot(P_2-P_1)=0
+$$&lt;/p&gt;
+&lt;p&gt;Solving this gives the value of $u$
+$$
+u=\frac{(x_3-x_1)(x_2-x1)+(y_3-y_1)(y_2-y_1)}{||p_2-p_1||}
+$$&lt;/p&gt;
+&lt;p&gt;Substituting this into the equation of the line gives the point of intersection \((x,y)\) of the tangent as
+$$
+x = x_1 + u(x_2-x_1)
+$$&lt;/p&gt;
+&lt;p&gt;$$
+y = y_1+u(y_2-y_1)
+$$&lt;/p&gt;
+&lt;p&gt;The distance therefore between the point \(P_3\) and the line is the distance between \((x,y)\) above and \(P_3\).&lt;/p&gt;
+&lt;h3&gt;Notes&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;notes&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#notes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;The only special testing for a software implementation is to ensure that \(P_1\) and \(P-2\) are not coincident (denominator in the equation for u is 0)&lt;/li&gt;
+&lt;li&gt;If the distance of the point to a line segment is required then it is only necessary to test that u lies between 0 and 1.&lt;/li&gt;
+&lt;li&gt;The solution is similar in higher dimensions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;hextra-code-block hx-relative hx-mt-6 first:hx-mt-0 hx-group/code&#34;&gt;
+
+&lt;div&gt;&lt;pre&gt;&lt;code&gt;distancePointLine &amp;lt;- function(x, y, slope, intercept) {
+ ## x, y is the point to test.
+ ## slope, intercept is the line to check distance.
+ ##
+ ## Returns distance from the line.
+ ##
+ ## Returns 9999 on 0 denominator conditions.
+ x1 &amp;lt;- x-10
+ x2 &amp;lt;- x&amp;#43;10
+ y1 &amp;lt;- x1*slope&amp;#43;intercept
+ y2 &amp;lt;- x2*slope&amp;#43;intercept
+ distancePointSegment(x,y, x1,y1, x2,y2)
+}
+distancePointSegment &amp;lt;- function(px, py, x1, y1, x2, y2) {
+ ## px,py is the point to test.
+ ## x1,y1,x2,y2 is the line to check distance.
+ ##
+ ## Returns distance from the line, or if the intersecting point on the line nearest
+ ## the point tested is outside the endpoints of the line, the distance to the
+ ## nearest endpoint.
+ ##
+ ## Returns 9999 on 0 denominator conditions.
+ lineMagnitude &amp;lt;- function(x1, y1, x2, y2) sqrt((x2-x1)^2&amp;#43;(y2-y1)^2)
+ ans &amp;lt;- NULL
+ ix &amp;lt;- iy &amp;lt;- 0   # intersecting point
+ lineMag &amp;lt;- lineMagnitude(x1, y1, x2, y2)
+ if( lineMag &amp;lt; 0.00000001) {
+   warning(&amp;#34;short segment&amp;#34;)
+   return(9999)
+ }
+ u &amp;lt;- (((px - x1) * (x2 - x1)) &amp;#43; ((py - y1) * (y2 - y1)))
+ u &amp;lt;- u / (lineMag * lineMag)
+ if((u &amp;lt; 0.00001) || (u &amp;gt; 1)) {
+   ## closest point does not fall within the line segment, take the shorter distance
+   ## to an endpoint
+   ix &amp;lt;- lineMagnitude(px, py, x1, y1)
+   iy &amp;lt;- lineMagnitude(px, py, x2, y2)
+   if(ix &amp;gt; iy)  ans &amp;lt;- iy
+   else ans &amp;lt;- ix
+ } else {
+   ## Intersecting point is on the line, use the formula
+   ix &amp;lt;- x1 &amp;#43; u * (x2 - x1)
+   iy &amp;lt;- y1 &amp;#43; u * (y2 - y1)
+   ans &amp;lt;- lineMagnitude(px, py, ix, iy)
+ }
+ ans
+}
+distancePointLineTest &amp;lt;- function() {
+ if(abs(distancePointSegment(  5,   5,  10, 10, 20, 20) - 7.07106781186548)&amp;gt;.0001)
+   stop(&amp;#34;error 1&amp;#34;)
+ if(abs(distancePointSegment( 15,  15,  10, 10, 20, 20) - 0)&amp;gt;.0001)
+   stop(&amp;#34;error 2&amp;#34;)
+ if(abs(distancePointSegment( 15,  15,  20, 10, 20, 20) - 5)&amp;gt;.0001)
+   stop(&amp;#34;error 3&amp;#34;)
+ if(abs(distancePointSegment(  0,  15,  20, 10, 20, 20) - 20)&amp;gt;.0001)
+   stop(&amp;#34;error 4&amp;#34;)
+ if(abs(distancePointSegment(  0,  25,  20, 10, 20, 20) - 20.6155281280883)&amp;gt;.0001)
+   stop(&amp;#34;error 5&amp;#34;)
+ if(abs(distancePointSegment(-13, -25, -50, 10, 20, 20) - 39.8808224589213)&amp;gt;.0001)
+   stop(&amp;#34;error 6&amp;#34;)
+ if(abs(distancePointSegment(  0,   3,   0, -4,  5,  0) - 5.466082)&amp;gt;.0001)
+   stop(&amp;#34;error 7&amp;#34;)
+ if(abs(distancePointSegment(  0,   9,   0, -4,  0, 15) - 0)&amp;gt;.0001)
+   stop(&amp;#34;error 8&amp;#34;)
+ if(abs(distancePointSegment(  0,   0,   0, -2,  2,  0)^2 - 2)&amp;gt;.0001)
+   stop(&amp;#34;error 9&amp;#34;)
+ return(TRUE)
+}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx-opacity-0 hx-transition group-hover/code:hx-opacity-100 hx-flex hx-gap-1 hx-absolute hx-m-[11px] hx-right-0 hx-top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx-group/copybtn hx-transition-all active:hx-opacity-50 hx-bg-primary-700/5 hx-border hx-border-black/5 hx-text-gray-600 hover:hx-text-gray-900 hx-rounded-md hx-p-1.5 dark:hx-bg-primary-300/10 dark:hx-border-white/10 dark:hx-text-gray-400 dark:hover:hx-text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;copy-icon group-[.copied]/copybtn:hx-hidden hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;success-icon hx-hidden group-[.copied]/copybtn:hx-block hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2&gt;Reference&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;reference&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#reference&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://paulbourke.net/geometry/pointlineplane/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Point, Line, Plane&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

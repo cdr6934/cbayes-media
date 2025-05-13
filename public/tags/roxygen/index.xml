@@ -1,0 +1,85 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chris Ried – Roxygen</title>
+    <link>http://localhost:1313/tags/roxygen/</link>
+    <description>Recent content in Roxygen on Chris Ried</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/tags/roxygen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Tips on Creating Effective and Functional Documentation in R</title>
+      <link>http://localhost:1313/blog/tips-creating-functional-documention/</link>
+      <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/tips-creating-functional-documention/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Just like any skill, there is a learning curve involved in creating effective communication. This involves the code written and the documentation of its usage. Writing functional code is a intricate thing to accomplish as a newbie. It takes time to know what is efficient and how to communicate it as such. Now, writing functional documentation is more complicated as there is a delicate balance between not reguritate what the code says, and giving usable pointers to the users on how a particular function was intended to be used. It also, keeps you in line as the coder practices by actively thinking about that balance. Thus you help yourself keeping it modular and simple. So here are a few tips on how to writing effective documentation.&lt;/p&gt;
+&lt;h3&gt;1. Keep It Simple Stupid (KISS)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-keep-it-simple-stupid-kiss&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#1-keep-it-simple-stupid-kiss&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Simplicity always wins over an overly complicated explanation. If you can&amp;rsquo;t explain something in simple terms, try to break it down into smaller steps so that it can be communicated to your audience.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;2. Define how the function works&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-define-how-the-function-works&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#2-define-how-the-function-works&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Describing a function in one sentence can be difficult, however it gives the user of your code the ability to scan your functions and determine with ease which function they need to use for their project. If it takes more than a  sentence to explain what the function is; there is a good chance it is a bloated function. Try to break your function down into smaller parts for improved readability and easier bug tracking.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Don&amp;rsquo;t write pseudo code comments; let the code read itself. If it can&amp;rsquo;t be read,  that should indicate there is an easier way to write it.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;3. Determine the parameter types&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-determine-the-parameter-types&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#3-determine-the-parameter-types&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Document the class / type of data that is being passed into the function and name it in such a way that gives the reader a clear understanding of its function. This will help you when writing unit tests for these functions in the future. That way you will know what should work and run as a positive test and what shouldn&amp;rsquo;t.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;4. Describe what the function should return&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;4-describe-what-the-function-should-return&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#4-describe-what-the-function-should-return&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Again, you&amp;rsquo;d think it would be simple to remember. But, againn it should be a way to describe the type / class of data that is going to be returned. If you don&amp;rsquo;t know what the function should return; it is neigh impossible to know how you should use it&amp;rsquo;s result.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;5. Dream up an implementation of the function&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;5-dream-up-an-implementation-of-the-function&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#5-dream-up-an-implementation-of-the-function&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Now that you have defined the ins / outs of the function. Why not create a reproducible example of your function. This will give the your user the ability to see how it works and what they expect from a tried and true function.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;All of these are suggestions and  will vary from company to preference to individual. But the bottom line is, you will need a way to communicate your creation so that anyone can pick up what you have written and use it to further extend one&amp;rsquo;s own analysis or packages. Otherwise you will end up in the ghost town of a github repo that has never seen the light of day. Or have someone rewrite the same thing you have written.&lt;/p&gt;
+&lt;h2&gt;Now how do we implement this in R?&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;now-how-do-we-implement-this-in-r&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#now-how-do-we-implement-this-in-r&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Down here we find an implementaiton of these rules that have been pulled from the roxygen2 package. Above every function that is coded, you should have the following added. This will give you the ability to properly understand what and why you have written.&lt;/p&gt;
+&lt;div class=&#34;hextra-code-block hx-relative hx-mt-6 first:hx-mt-0 hx-group/code&#34;&gt;
+
+&lt;div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;#&amp;#39; Add together two numbers&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;#&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;#&amp;#39; @param x A number&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;#&amp;#39; @param y A number&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;#&amp;#39; @return The sum of \code{x} and \code{y}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;#&amp;#39; @examples&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;#&amp;#39; add(1, 1)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;#&amp;#39; add(10, 1)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx-opacity-0 hx-transition group-hover/code:hx-opacity-100 hx-flex hx-gap-1 hx-absolute hx-m-[11px] hx-right-0 hx-top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx-group/copybtn hx-transition-all active:hx-opacity-50 hx-bg-primary-700/5 hx-border hx-border-black/5 hx-text-gray-600 hover:hx-text-gray-900 hx-rounded-md hx-p-1.5 dark:hx-bg-primary-300/10 dark:hx-border-white/10 dark:hx-text-gray-400 dark:hover:hx-text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;copy-icon group-[.copied]/copybtn:hx-hidden hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;success-icon hx-hidden group-[.copied]/copybtn:hx-block hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h4&gt;References&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;references&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#references&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cran.r-project.org/web/packages/roxygen2/vignettes/rd.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ROxygen2 Vignette&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cran.r-project.org/web/packages/roxygen2/vignettes/rd.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rd Conversion&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

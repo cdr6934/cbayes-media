@@ -1,0 +1,55 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chris Ried – Web3</title>
+    <link>http://localhost:1313/tags/web3/</link>
+    <description>Recent content in Web3 on Chris Ried</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Oct 2022 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/tags/web3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Web3 Landscape (2022)</title>
+      <link>http://localhost:1313/blog/web3-landscape-2022/</link>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/web3-landscape-2022/</guid>
+      <description>
+        
+        
+        &lt;p&gt;First of all, this continues to change and will be extremely interesting to work with over the next number of years. There are a number of interesting use cases ad much is about rethinking the web infrastructure.&lt;/p&gt;
+&lt;h2&gt;Wallets&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;wallets&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#wallets&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://metamask.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Metamask&lt;/a&gt; -&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://muun.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Muun&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Security&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;security&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#security&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coinbase.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Coinbase&lt;/a&gt; - A marketplace&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;L2 Blockchain&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;l2-blockchain&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#l2-blockchain&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://polygon.technology/2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Polygon&lt;/a&gt; -&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Finance&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;finance&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#finance&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; &gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; &gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Digital Collectables (NFTs)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;digital-collectables-nfts&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#digital-collectables-nfts&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://opensea.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenSea&lt;/a&gt; - First and currently the foremost NFT platform supporting the ethereum and L2 Polygon chains&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

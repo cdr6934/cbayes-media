@@ -1,0 +1,94 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chris Ried – Photography</title>
+    <link>http://localhost:1313/tags/photography/</link>
+    <description>Recent content in Photography on Chris Ried</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/tags/photography/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Iceland 2016</title>
+      <link>http://localhost:1313/work/iceland-2023/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/work/iceland-2023/</guid>
+      <description>
+        
+        
+        
+      &lt;div
+          style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+        &lt;iframe
+          src=&#34;https://player.vimeo.com/video/886245771?dnt=0&#34;
+            style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allow=&#34;fullscreen&#34;&gt;
+        &lt;/iframe&gt;
+      &lt;/div&gt;
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Washington 2023</title>
+      <link>http://localhost:1313/work/washington-2023/</link>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/work/washington-2023/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Joshua Tree</title>
+      <link>http://localhost:1313/work/joshua-tree-2018/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/work/joshua-tree-2018/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Smoky Mountains Sundown</title>
+      <link>http://localhost:1313/work/smoky-mountains-1/</link>
+      <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/work/smoky-mountains-1/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Iceland 2016</title>
+      <link>http://localhost:1313/work/iceland-2016/</link>
+      <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/work/iceland-2016/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Along the black sands, awaits the sun to bring forth the light to all and everyone. After staying overnight in our vehicle; we got up bright and early in order to catch the sun before it rose. It gave us the ability to take a wonderful early morning shot with blue skies. Even though the entire night was full of clouds.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

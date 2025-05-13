@@ -1,0 +1,77 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chris Ried – Golang</title>
+    <link>http://localhost:1313/categories/golang/</link>
+    <description>Recent content in Golang on Chris Ried</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Oct 2022 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/categories/golang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>How to Create Generative Art</title>
+      <link>http://localhost:1313/blog/2022-10-26-how-to-make-generative-art/</link>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2022-10-26-how-to-make-generative-art/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Following are 10 ways how to start learning how to make generative art.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Learn how to use a framework or software for generative art.
+There are a number of different ways to do this. Here is a mindmap as a guide. I&amp;rsquo;d suggest just looking at them and start searching for them.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Take a few art classes
+There are plenty of places online such as Domestika or Skillshare that will help you find inspiration, and open your mind to new ideas of expression. You can also find something in IRL in your city.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Take the time to learn color theory
+Color is the emotion of an image, using it wisely and in an unexpected way can help make your work shine. Check out this link for more info.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Start an Instagram or Twitter and keep posting
+A great way to make friends and document your art creation journey. But be aware, don&amp;rsquo;t let the likes and followers trip you up.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Find a community of interested artists
+There are many different communities to name a few:
+Artblocks and their discord or Reddit Creative Coding.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Discover the history of generative art
+Look through the collections of Ann and Michael Spalter, then take some time and read the posts of Artnome.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Keep on practicing
+Start by playing with the code, and create something that someone else has made on platforms such as OpenProcessing or The Coding Train. Learn its mechanics till you can write it from scratch.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Participate in mind-stretching exercises
+For the past couple of years, there has been a daily prompt on creating a new piece of work called Genuary. It&amp;rsquo;s a great way to just power through learning new skills at a faster pace. There are also books such as the exercises in the book, Coding as Creative Medium&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Find your style/passions in your art
+Art is about expressing who you are, your experiences, your thoughts, and your fears. Research other artists that interest you, and understand their stories. Let them inspire your story.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Subscribe to newsletters/podcasts.
+You will find @sableRaph and his Twitter / Discord community to be a great place for new ideas. Or check out generative.substack.com
+This was first published on Twitter as a thread here and then here.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

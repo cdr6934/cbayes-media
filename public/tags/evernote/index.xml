@@ -1,0 +1,33 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chris Ried – Evernote</title>
+    <link>http://localhost:1313/tags/evernote/</link>
+    <description>Recent content in Evernote on Chris Ried</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/tags/evernote/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Take Back Your Time (Evernote)</title>
+      <link>http://localhost:1313/blog/take-back-your-time-evernote/</link>
+      <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/take-back-your-time-evernote/</guid>
+      <description>
+        
+        
+        &lt;p&gt;You will find the following text originally posted on &lt;a href=&#34;https://medium.com/@cdr6934/take-back-your-time-evernote-4f0f9a4083e9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Medium&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
