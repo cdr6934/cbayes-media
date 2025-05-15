@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chris Ried – Docs</title>
+    <title>CBayes Media Labs – Docs</title>
     <link>http://localhost:1313/docs/</link>
-    <description>Recent content in Docs on Chris Ried</description>
+    <description>Recent content in Docs on CBayes Media Labs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 12 May 2025 21:03:48 -0500</lastBuildDate>

@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chris Ried – Cpp</title>
+    <title>CBayes Media Labs – Cpp</title>
     <link>http://localhost:1313/tags/cpp/</link>
-    <description>Recent content in Cpp on Chris Ried</description>
+    <description>Recent content in Cpp on CBayes Media Labs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Nov 2023 00:00:00 +0000</lastBuildDate>

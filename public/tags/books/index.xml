@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chris Ried – Books</title>
+    <title>CBayes Media Labs – Books</title>
     <link>http://localhost:1313/tags/books/</link>
-    <description>Recent content in Books on Chris Ried</description>
+    <description>Recent content in Books on CBayes Media Labs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 Oct 2017 00:00:00 +0000</lastBuildDate>
