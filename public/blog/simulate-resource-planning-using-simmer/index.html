@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html lang="en"><head>
+<html lang="en"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="robots" content="index, follow" />
+  <meta name="robots" content="noindex, nofollow" />
   <link rel="icon shortcut" href="/favicon.ico" sizes="32x32" />
 <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
 <link rel="icon" href="/favicon-dark.svg" type="image/svg+xml" media="(prefers-color-scheme: dark)" />
@@ -13,7 +13,7 @@
 <title>Simulate Doctor Visit Resource Planning Using Simmer – Chris Ried</title>
   <meta name="description" content="Here I’ve tried to come up with a simple layout on how we might simulate doctor’s visits.
 Following code tries to resource plan certain doctor visits based on the vignette that was provided with the simmer package.
-library(simmer) set.seed(42) env &lt;- simmer(&#34;SuperDuperSim&#34;) env patient &lt;- trajectory(&#34;patients&#39; path&#34;) %&gt;% ## add an intake activity seize(&#34;nurse&#34;, 1) %&gt;% timeout(function() rnorm(1, 15)) %&gt;% release(&#34;nurse&#34;, 1) %&gt;% ## add a consultation activity seize(&#34;doctor&#34;, 1) %&gt;% timeout(function() rnorm(1, 20)) %&gt;% release(&#34;doctor&#34;, 1) %&gt;% ## add a planning activity seize(&#34;administration&#34;, 1) %&gt;% timeout(function() rnorm(1, 5)) %&gt;% release(&#34;administration&#34;, 1) env %&gt;% add_resource(&#34;nurse&#34;, 1) %&gt;% add_resource(&#34;doctor&#34;, 2) %&gt;% add_resource(&#34;administration&#34;, 1) %&gt;% add_generator(&#34;patient&#34;, patient, function() rnorm(1, 10, 2)) env %&gt;% run(80) %&gt;% now() env %&gt;% peek(3) env %&gt;% stepn() %&gt;% # 1 step print() %&gt;% stepn(3) # 3 steps envs &lt;- lapply(1:100, function(i) { simmer(&#34;SuperDuperSim&#34;) %&gt;% add_resource(&#34;nurse&#34;, 1) %&gt;% add_resource(&#34;doctor&#34;, 2) %&gt;% add_resource(&#34;administration&#34;, 1) %&gt;% add_generator(&#34;patient&#34;, patient, function() rnorm(1, 10, 2)) %&gt;% run(80) }) envs %&gt;% get_mon_resources() %&gt;% head() envs %&gt;% get_mon_arrivals() %&gt;% head() " /><link rel="canonical" href="https://cbayes.com/blog/simulate-resource-planning-using-simmer/" itemprop="url" />
+library(simmer) set.seed(42) env &lt;- simmer(&#34;SuperDuperSim&#34;) env patient &lt;- trajectory(&#34;patients&#39; path&#34;) %&gt;% ## add an intake activity seize(&#34;nurse&#34;, 1) %&gt;% timeout(function() rnorm(1, 15)) %&gt;% release(&#34;nurse&#34;, 1) %&gt;% ## add a consultation activity seize(&#34;doctor&#34;, 1) %&gt;% timeout(function() rnorm(1, 20)) %&gt;% release(&#34;doctor&#34;, 1) %&gt;% ## add a planning activity seize(&#34;administration&#34;, 1) %&gt;% timeout(function() rnorm(1, 5)) %&gt;% release(&#34;administration&#34;, 1) env %&gt;% add_resource(&#34;nurse&#34;, 1) %&gt;% add_resource(&#34;doctor&#34;, 2) %&gt;% add_resource(&#34;administration&#34;, 1) %&gt;% add_generator(&#34;patient&#34;, patient, function() rnorm(1, 10, 2)) env %&gt;% run(80) %&gt;% now() env %&gt;% peek(3) env %&gt;% stepn() %&gt;% # 1 step print() %&gt;% stepn(3) # 3 steps envs &lt;- lapply(1:100, function(i) { simmer(&#34;SuperDuperSim&#34;) %&gt;% add_resource(&#34;nurse&#34;, 1) %&gt;% add_resource(&#34;doctor&#34;, 2) %&gt;% add_resource(&#34;administration&#34;, 1) %&gt;% add_generator(&#34;patient&#34;, patient, function() rnorm(1, 10, 2)) %&gt;% run(80) }) envs %&gt;% get_mon_resources() %&gt;% head() envs %&gt;% get_mon_arrivals() %&gt;% head() " /><link rel="canonical" href="http://localhost:1313/blog/simulate-resource-planning-using-simmer/" itemprop="url" />
 
 <meta property="og:title" content="Simulate Doctor Visit Resource Planning Using Simmer" />
 <meta property="og:description" content="Here I&rsquo;ve tried to come up with a simple layout on how we might simulate doctor&rsquo;s visits.
@@ -83,7 +83,7 @@ envs %&gt;%
 
 " />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://cbayes.com/blog/simulate-resource-planning-using-simmer/" /><meta property="article:section" content="blog" />
+<meta property="og:url" content="http://localhost:1313/blog/simulate-resource-planning-using-simmer/" /><meta property="article:section" content="blog" />
 <meta property="article:published_time" content="2018-08-07T00:00:00+00:00" />
 <meta property="article:modified_time" content="2018-08-07T00:00:00+00:00" />
 
@@ -101,12 +101,11 @@ library(simmer) set.seed(42) env &lt;- simmer(&#34;SuperDuperSim&#34;) env patie
 Following code tries to resource plan certain doctor visits based on the vignette that was provided with the simmer package.
 library(simmer) set.seed(42) env &lt;- simmer(&#34;SuperDuperSim&#34;) env patient &lt;- trajectory(&#34;patients&#39; path&#34;) %&gt;% ## add an intake activity seize(&#34;nurse&#34;, 1) %&gt;% timeout(function() rnorm(1, 15)) %&gt;% release(&#34;nurse&#34;, 1) %&gt;% ## add a consultation activity seize(&#34;doctor&#34;, 1) %&gt;% timeout(function() rnorm(1, 20)) %&gt;% release(&#34;doctor&#34;, 1) %&gt;% ## add a planning activity seize(&#34;administration&#34;, 1) %&gt;% timeout(function() rnorm(1, 5)) %&gt;% release(&#34;administration&#34;, 1) env %&gt;% add_resource(&#34;nurse&#34;, 1) %&gt;% add_resource(&#34;doctor&#34;, 2) %&gt;% add_resource(&#34;administration&#34;, 1) %&gt;% add_generator(&#34;patient&#34;, patient, function() rnorm(1, 10, 2)) env %&gt;% run(80) %&gt;% now() env %&gt;% peek(3) env %&gt;% stepn() %&gt;% # 1 step print() %&gt;% stepn(3) # 3 steps envs &lt;- lapply(1:100, function(i) { simmer(&#34;SuperDuperSim&#34;) %&gt;% add_resource(&#34;nurse&#34;, 1) %&gt;% add_resource(&#34;doctor&#34;, 2) %&gt;% add_resource(&#34;administration&#34;, 1) %&gt;% add_generator(&#34;patient&#34;, patient, function() rnorm(1, 10, 2)) %&gt;% run(80) }) envs %&gt;% get_mon_resources() %&gt;% head() envs %&gt;% get_mon_arrivals() %&gt;% head()">
 
-    <link rel="preload" href="/css/compiled/main.min.9a2a4c6e602ce30f10fa86afbb1ce624db853742eeccc2e954764594ee62c18f.css" as="style" integrity="sha256-mipMbmAs4w8Q&#43;oavuxzmJNuFN0LuzMLpVHZFlO5iwY8=" />
-    <link href="/css/compiled/main.min.9a2a4c6e602ce30f10fa86afbb1ce624db853742eeccc2e954764594ee62c18f.css" rel="stylesheet" integrity="sha256-mipMbmAs4w8Q&#43;oavuxzmJNuFN0LuzMLpVHZFlO5iwY8=" />
+    <link href="/css/compiled/main.css" rel="stylesheet" />
 
 
 
-  <link href="/css/custom.min.e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css" rel="stylesheet" integrity="sha256-47DEQpj8HBSa&#43;/TImW&#43;5JCeuQeRkm5NMpJWZG3hSuFU=" />
+  <link href="/css/custom.css" rel="stylesheet" />
 
 
   <script>
@@ -979,7 +978,7 @@ library(simmer) set.seed(42) env &lt;- simmer(&#34;SuperDuperSim&#34;) env patie
   </a></div></div>
       </div></footer>
     
-    <script defer src="/js/main.min.0942239592f0795dc7213dd1057fd229d7edc19c0ef1a285396eb292d9ca9842.js" integrity="sha256-CUIjlZLweV3HIT3RBX/SKdftwZwO8aKFOW6yktnKmEI="></script>
+    <script defer src="/js/main.js" integrity=""></script>
 
   </body>
 </html>

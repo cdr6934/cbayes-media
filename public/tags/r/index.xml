@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chris Ried – R</title>
-    <link>https://cbayes.com/tags/r/</link>
+    <link>http://localhost:1313/tags/r/</link>
     <description>Recent content in R on Chris Ried</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Feb 2021 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="https://cbayes.com/tags/r/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>Determining Heartbeat from iPhone Camera</title>
-      <link>https://cbayes.com/blog/heartbeat_using_iphone/</link>
+      <link>http://localhost:1313/blog/heartbeat_using_iphone/</link>
       <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://cbayes.com/blog/heartbeat_using_iphone/</guid>
+      <guid>http://localhost:1313/blog/heartbeat_using_iphone/</guid>
       <description>
         
         
@@ -33,10 +33,10 @@
     
     <item>
       <title>Minimum Distance between a Point and a Line</title>
-      <link>https://cbayes.com/blog/2021-02-20-minimum-distance-point-line/</link>
+      <link>http://localhost:1313/blog/2021-02-20-minimum-distance-point-line/</link>
       <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cbayes.com/blog/2021-02-20-minimum-distance-point-line/</guid>
+      <guid>http://localhost:1313/blog/2021-02-20-minimum-distance-point-line/</guid>
       <description>
         
         
@@ -161,10 +161,10 @@ distancePointLineTest &amp;lt;- function() {
     
     <item>
       <title>Using Analytics to Determine Ideal Hashtags for Instagram</title>
-      <link>https://cbayes.com/blog/using-analytics-to-determine-ideal-hashtags/</link>
+      <link>http://localhost:1313/blog/using-analytics-to-determine-ideal-hashtags/</link>
       <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cbayes.com/blog/using-analytics-to-determine-ideal-hashtags/</guid>
+      <guid>http://localhost:1313/blog/using-analytics-to-determine-ideal-hashtags/</guid>
       <description>
         
         
@@ -327,10 +327,10 @@ distancePointLineTest &amp;lt;- function() {
     
     <item>
       <title>Formatting Currencies in R</title>
-      <link>https://cbayes.com/blog/2018-08-21-formatting-currencies-r/</link>
+      <link>http://localhost:1313/blog/2018-08-21-formatting-currencies-r/</link>
       <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cbayes.com/blog/2018-08-21-formatting-currencies-r/</guid>
+      <guid>http://localhost:1313/blog/2018-08-21-formatting-currencies-r/</guid>
       <description>
         
         
@@ -375,10 +375,10 @@ distancePointLineTest &amp;lt;- function() {
     
     <item>
       <title>Phillips Hue in R</title>
-      <link>https://cbayes.com/blog/phillips-hue-in-r/</link>
+      <link>http://localhost:1313/blog/phillips-hue-in-r/</link>
       <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cbayes.com/blog/phillips-hue-in-r/</guid>
+      <guid>http://localhost:1313/blog/phillips-hue-in-r/</guid>
       <description>
         
         
@@ -471,10 +471,10 @@ for(i in vals){changeBrightness(ip,userName,light,i)}&lt;/code&gt;&lt;/pre&gt;&l
     
     <item>
       <title>Simulate Doctor Visit Resource Planning Using Simmer</title>
-      <link>https://cbayes.com/blog/simulate-resource-planning-using-simmer/</link>
+      <link>http://localhost:1313/blog/simulate-resource-planning-using-simmer/</link>
       <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cbayes.com/blog/simulate-resource-planning-using-simmer/</guid>
+      <guid>http://localhost:1313/blog/simulate-resource-planning-using-simmer/</guid>
       <description>
         
         
@@ -553,10 +553,10 @@ for(i in vals){changeBrightness(ip,userName,light,i)}&lt;/code&gt;&lt;/pre&gt;&l
     
     <item>
       <title>Time and Difficulty</title>
-      <link>https://cbayes.com/blog/time-and-difficulty/</link>
+      <link>http://localhost:1313/blog/time-and-difficulty/</link>
       <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cbayes.com/blog/time-and-difficulty/</guid>
+      <guid>http://localhost:1313/blog/time-and-difficulty/</guid>
       <description>
         
         
@@ -607,10 +607,10 @@ for(i in vals){changeBrightness(ip,userName,light,i)}&lt;/code&gt;&lt;/pre&gt;&l
     
     <item>
       <title>Minature Generative Art</title>
-      <link>https://cbayes.com/blog/minature-generative-art/</link>
+      <link>http://localhost:1313/blog/minature-generative-art/</link>
       <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cbayes.com/blog/minature-generative-art/</guid>
+      <guid>http://localhost:1313/blog/minature-generative-art/</guid>
       <description>
         
         
@@ -677,10 +677,10 @@ for(i in vals){changeBrightness(ip,userName,light,i)}&lt;/code&gt;&lt;/pre&gt;&l
     
     <item>
       <title>Extracting Hyperlinks from an XSLX in R</title>
-      <link>https://cbayes.com/blog/extracting-hyperlinks-from-an-xslx-in-r/</link>
+      <link>http://localhost:1313/blog/extracting-hyperlinks-from-an-xslx-in-r/</link>
       <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cbayes.com/blog/extracting-hyperlinks-from-an-xslx-in-r/</guid>
+      <guid>http://localhost:1313/blog/extracting-hyperlinks-from-an-xslx-in-r/</guid>
       <description>
         
         
@@ -708,10 +708,10 @@ for(i in vals){changeBrightness(ip,userName,light,i)}&lt;/code&gt;&lt;/pre&gt;&l
     
     <item>
       <title>Human Ingenuity and Speed</title>
-      <link>https://cbayes.com/blog/human-ingenuity-and-speed/</link>
+      <link>http://localhost:1313/blog/human-ingenuity-and-speed/</link>
       <pubDate>Sat, 23 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://cbayes.com/blog/human-ingenuity-and-speed/</guid>
+      <guid>http://localhost:1313/blog/human-ingenuity-and-speed/</guid>
       <description>
         
         
@@ -778,10 +778,10 @@ for(i in vals){changeBrightness(ip,userName,light,i)}&lt;/code&gt;&lt;/pre&gt;&l
     
     <item>
       <title>Words With Friends Musings</title>
-      <link>https://cbayes.com/blog/words-with-friends-musings/</link>
+      <link>http://localhost:1313/blog/words-with-friends-musings/</link>
       <pubDate>Sun, 03 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://cbayes.com/blog/words-with-friends-musings/</guid>
+      <guid>http://localhost:1313/blog/words-with-friends-musings/</guid>
       <description>
         
         
@@ -830,10 +830,10 @@ for(i in vals){changeBrightness(ip,userName,light,i)}&lt;/code&gt;&lt;/pre&gt;&l
     
     <item>
       <title>Exploring the Book of Esther in the Tidy Verse</title>
-      <link>https://cbayes.com/blog/exploring-the-book-of-esther-in-the-tidy-verse/</link>
+      <link>http://localhost:1313/blog/exploring-the-book-of-esther-in-the-tidy-verse/</link>
       <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://cbayes.com/blog/exploring-the-book-of-esther-in-the-tidy-verse/</guid>
+      <guid>http://localhost:1313/blog/exploring-the-book-of-esther-in-the-tidy-verse/</guid>
       <description>
         
         
@@ -1034,10 +1034,10 @@ for(i in vals){changeBrightness(ip,userName,light,i)}&lt;/code&gt;&lt;/pre&gt;&l
     
     <item>
       <title>Timeseries Analysis Using R and Advantager</title>
-      <link>https://cbayes.com/blog/timeseries-analysis-using-r-and-advantager/</link>
+      <link>http://localhost:1313/blog/timeseries-analysis-using-r-and-advantager/</link>
       <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://cbayes.com/blog/timeseries-analysis-using-r-and-advantager/</guid>
+      <guid>http://localhost:1313/blog/timeseries-analysis-using-r-and-advantager/</guid>
       <description>
         
         
@@ -1116,10 +1116,10 @@ for(i in vals){changeBrightness(ip,userName,light,i)}&lt;/code&gt;&lt;/pre&gt;&l
     
     <item>
       <title>Gantt Charts in R</title>
-      <link>https://cbayes.com/blog/gantt-charts-in-r/</link>
+      <link>http://localhost:1313/blog/gantt-charts-in-r/</link>
       <pubDate>Tue, 17 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://cbayes.com/blog/gantt-charts-in-r/</guid>
+      <guid>http://localhost:1313/blog/gantt-charts-in-r/</guid>
       <description>
         
         
@@ -1239,10 +1239,10 @@ for(i in vals){changeBrightness(ip,userName,light,i)}&lt;/code&gt;&lt;/pre&gt;&l
     
     <item>
       <title>Tips on Feature Engineering</title>
-      <link>https://cbayes.com/blog/2017-10-08-feature-engineering/</link>
+      <link>http://localhost:1313/blog/2017-10-08-feature-engineering/</link>
       <pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://cbayes.com/blog/2017-10-08-feature-engineering/</guid>
+      <guid>http://localhost:1313/blog/2017-10-08-feature-engineering/</guid>
       <description>
         
         
@@ -1261,10 +1261,10 @@ for(i in vals){changeBrightness(ip,userName,light,i)}&lt;/code&gt;&lt;/pre&gt;&l
     
     <item>
       <title>Great Statistics Books to Read</title>
-      <link>https://cbayes.com/blog/great-statistics-books-to-read/</link>
+      <link>http://localhost:1313/blog/great-statistics-books-to-read/</link>
       <pubDate>Fri, 06 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://cbayes.com/blog/great-statistics-books-to-read/</guid>
+      <guid>http://localhost:1313/blog/great-statistics-books-to-read/</guid>
       <description>
         
         
@@ -1295,10 +1295,10 @@ for(i in vals){changeBrightness(ip,userName,light,i)}&lt;/code&gt;&lt;/pre&gt;&l
     
     <item>
       <title>AB Testing in R from Scratch</title>
-      <link>https://cbayes.com/blog/ab-testing-in-r-from-scratch/</link>
+      <link>http://localhost:1313/blog/ab-testing-in-r-from-scratch/</link>
       <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://cbayes.com/blog/ab-testing-in-r-from-scratch/</guid>
+      <guid>http://localhost:1313/blog/ab-testing-in-r-from-scratch/</guid>
       <description>
         
         
@@ -1548,10 +1548,10 @@ for(i in vals){changeBrightness(ip,userName,light,i)}&lt;/code&gt;&lt;/pre&gt;&l
     
     <item>
       <title>Tips on Creating Effective and Functional Documentation in R</title>
-      <link>https://cbayes.com/blog/tips-creating-functional-documention/</link>
+      <link>http://localhost:1313/blog/tips-creating-functional-documention/</link>
       <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://cbayes.com/blog/tips-creating-functional-documention/</guid>
+      <guid>http://localhost:1313/blog/tips-creating-functional-documention/</guid>
       <description>
         
         
@@ -1614,10 +1614,10 @@ for(i in vals){changeBrightness(ip,userName,light,i)}&lt;/code&gt;&lt;/pre&gt;&l
     
     <item>
       <title>Tracking Change Improvements in Retail</title>
-      <link>https://cbayes.com/blog/tracking-change-improvements-in-retail/</link>
+      <link>http://localhost:1313/blog/tracking-change-improvements-in-retail/</link>
       <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://cbayes.com/blog/tracking-change-improvements-in-retail/</guid>
+      <guid>http://localhost:1313/blog/tracking-change-improvements-in-retail/</guid>
       <description>
         
         
@@ -1978,10 +1978,10 @@ for(i in vals){changeBrightness(ip,userName,light,i)}&lt;/code&gt;&lt;/pre&gt;&l
     
     <item>
       <title>Rocket Propulsion</title>
-      <link>https://cbayes.com/blog/rocket-propolsion/</link>
+      <link>http://localhost:1313/blog/rocket-propolsion/</link>
       <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://cbayes.com/blog/rocket-propolsion/</guid>
+      <guid>http://localhost:1313/blog/rocket-propolsion/</guid>
       <description>
         
         

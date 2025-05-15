@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chris Ried – Roxygen</title>
-    <link>https://cbayes.com/tags/roxygen/</link>
+    <link>http://localhost:1313/tags/roxygen/</link>
     <description>Recent content in Roxygen on Chris Ried</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 22 Sep 2017 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="https://cbayes.com/tags/roxygen/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/tags/roxygen/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>Tips on Creating Effective and Functional Documentation in R</title>
-      <link>https://cbayes.com/blog/tips-creating-functional-documention/</link>
+      <link>http://localhost:1313/blog/tips-creating-functional-documention/</link>
       <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://cbayes.com/blog/tips-creating-functional-documention/</guid>
+      <guid>http://localhost:1313/blog/tips-creating-functional-documention/</guid>
       <description>
         
         

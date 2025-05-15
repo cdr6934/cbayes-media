@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chris Ried – Writing</title>
-    <link>https://cbayes.com/tags/writing/</link>
+    <link>http://localhost:1313/tags/writing/</link>
     <description>Recent content in Writing on Chris Ried</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Nov 2023 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="https://cbayes.com/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/tags/writing/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>CreativeQ</title>
-      <link>https://cbayes.com/blog/creative_q/</link>
+      <link>http://localhost:1313/blog/creative_q/</link>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://cbayes.com/blog/creative_q/</guid>
+      <guid>http://localhost:1313/blog/creative_q/</guid>
       <description>
         
         
@@ -34,10 +34,10 @@
     
     <item>
       <title>Cutting Images</title>
-      <link>https://cbayes.com/blog/image_mirror/</link>
+      <link>http://localhost:1313/blog/image_mirror/</link>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://cbayes.com/blog/image_mirror/</guid>
+      <guid>http://localhost:1313/blog/image_mirror/</guid>
       <description>
         
         
@@ -49,10 +49,10 @@
     
     <item>
       <title>Genuary 2023</title>
-      <link>https://cbayes.com/blog/genuary_2023/</link>
+      <link>http://localhost:1313/blog/genuary_2023/</link>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://cbayes.com/blog/genuary_2023/</guid>
+      <guid>http://localhost:1313/blog/genuary_2023/</guid>
       <description>
         
         
@@ -91,10 +91,10 @@
     
     <item>
       <title>Synthetic Sequences</title>
-      <link>https://cbayes.com/blog/synthetic_sequences/</link>
+      <link>http://localhost:1313/blog/synthetic_sequences/</link>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://cbayes.com/blog/synthetic_sequences/</guid>
+      <guid>http://localhost:1313/blog/synthetic_sequences/</guid>
       <description>
         
         
@@ -107,10 +107,10 @@
     
     <item>
       <title>Physical Calligraphy</title>
-      <link>https://cbayes.com/blog/calligraphy/</link>
+      <link>http://localhost:1313/blog/calligraphy/</link>
       <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://cbayes.com/blog/calligraphy/</guid>
+      <guid>http://localhost:1313/blog/calligraphy/</guid>
       <description>
         
         
@@ -122,10 +122,10 @@
     
     <item>
       <title>Synthetic Sequences</title>
-      <link>https://cbayes.com/blog/creative_coding_environment/</link>
+      <link>http://localhost:1313/blog/creative_coding_environment/</link>
       <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://cbayes.com/blog/creative_coding_environment/</guid>
+      <guid>http://localhost:1313/blog/creative_coding_environment/</guid>
       <description>
         
         
@@ -137,10 +137,10 @@
     
     <item>
       <title>Generative Art -  The Story, It&#39;s Uses, and Future</title>
-      <link>https://cbayes.com/blog/generative_book/</link>
+      <link>http://localhost:1313/blog/generative_book/</link>
       <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://cbayes.com/blog/generative_book/</guid>
+      <guid>http://localhost:1313/blog/generative_book/</guid>
       <description>
         
         
@@ -152,10 +152,10 @@
     
     <item>
       <title>Interview - Tyler Hobbs</title>
-      <link>https://cbayes.com/blog/tyler_hobbs/</link>
+      <link>http://localhost:1313/blog/tyler_hobbs/</link>
       <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cbayes.com/blog/tyler_hobbs/</guid>
+      <guid>http://localhost:1313/blog/tyler_hobbs/</guid>
       <description>
         
         
@@ -166,10 +166,10 @@
     
     <item>
       <title>Determining Heartbeat from iPhone Camera</title>
-      <link>https://cbayes.com/blog/heartbeat_using_iphone/</link>
+      <link>http://localhost:1313/blog/heartbeat_using_iphone/</link>
       <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://cbayes.com/blog/heartbeat_using_iphone/</guid>
+      <guid>http://localhost:1313/blog/heartbeat_using_iphone/</guid>
       <description>
         
         
@@ -182,10 +182,10 @@
     
     <item>
       <title>Creative Sinkholes</title>
-      <link>https://cbayes.com/blog/creative_sinkholes/</link>
+      <link>http://localhost:1313/blog/creative_sinkholes/</link>
       <pubDate>Sat, 04 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://cbayes.com/blog/creative_sinkholes/</guid>
+      <guid>http://localhost:1313/blog/creative_sinkholes/</guid>
       <description>
         
         

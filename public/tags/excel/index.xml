@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chris Ried – Excel</title>
-    <link>https://cbayes.com/tags/excel/</link>
+    <link>http://localhost:1313/tags/excel/</link>
     <description>Recent content in Excel on Chris Ried</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 04 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="https://cbayes.com/tags/excel/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/tags/excel/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>Extracting Hyperlinks from an XSLX in R</title>
-      <link>https://cbayes.com/blog/extracting-hyperlinks-from-an-xslx-in-r/</link>
+      <link>http://localhost:1313/blog/extracting-hyperlinks-from-an-xslx-in-r/</link>
       <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cbayes.com/blog/extracting-hyperlinks-from-an-xslx-in-r/</guid>
+      <guid>http://localhost:1313/blog/extracting-hyperlinks-from-an-xslx-in-r/</guid>
       <description>
         
         
