@@ -33,3 +33,6 @@ params:
     displayTitle: true
   search:
     enable: false
+services:
+  googleAnalytics:
+    ID: G-E6NSPXZCCY

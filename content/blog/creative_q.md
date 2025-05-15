@@ -1,7 +1,5 @@
 ---
 weight: 1
-images:
-    - https://live.staticflickr.com/65535/53405100138_a5dfa60fc3_b_d.jpg
 title: CreativeQ
 date: 2023-11-06
 hideExif: true
@@ -12,7 +10,10 @@ tags:
 - work
 ---
 
+![](https://live.staticflickr.com/65535/53405100138_a5dfa60fc3_b_d.jpg)
+
  **2023 - Built with Javascript**
+
 
 The original site is __[here](https://creativeq.glitch.me/)__
 

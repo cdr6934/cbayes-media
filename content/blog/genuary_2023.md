@@ -1,7 +1,5 @@
 ---
 weight: 1
-images:
-    - https://live.staticflickr.com/65535/53398733611_5303bd2fce_o_d.gif
 title: Genuary 2023
 date: 2023-11-06
 hideExif: true
@@ -12,6 +10,8 @@ tags:
 - work
 - genuary
 ---
+
+![](https://live.staticflickr.com/65535/53398733611_5303bd2fce_o_d.gif)
 
 This was a slightly different year as I used Javascript for the first time... this was using all P5 for this work just to get a better hang of Javascript and all the various interesting ways it can be used. 
 
