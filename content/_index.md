@@ -31,8 +31,10 @@ Yet...
 Eventually I see a multidisciplinary team combining the expertise of software engineering, 
 research, engineering and data-driven design to deliver custom solutions that inspire and engage. 
 
-One permutation  is **[Varanorr](https://varanorr.com/)** also been working on a printing operations workflow for artists **[Haus Mono](https://www.hausmono.com/)** and AI Strategy services @
-**[Pixel Poetry](https://pixelpoetry.xyz)**
+I've been working on a few different projects: 
+* **[Varanorr](https://varanorr.com/)** - Research / Design Studio 
+* **[Haus Mono](https://www.hausmono.com/)** -  a printing operations workflow for artists
+* **[Pixel Poetry](https://pixelpoetry.xyz)** - AI Strategy services
 
 
 This is also a bit of my personal site for the time being but I hope that it becomes a vision on its own. 
