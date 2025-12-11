@@ -33,7 +33,7 @@ research, engineering and data-driven design to deliver custom solutions that in
 
 I've been working on a few different projects: 
 * **[Varanorr](https://varanorr.com/)** - Research / Design Studio 
-* **[Haus Mono](https://www.hausmono.com/)** -  a printing operations workflow for artists
+* **[Haus Mono](https://hausmono.com/)** -  a printing operations workflow for artists
 * **[Pixel Poetry](https://pixelpoetry.xyz)** - AI Strategy services
 
 
