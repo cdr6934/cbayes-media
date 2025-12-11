@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CBayes Media Labs – Risk</title>
-    <link>http://localhost:1313/tags/risk/</link>
+    <link>https://cbayes.com/tags/risk/</link>
     <description>Recent content in Risk on CBayes Media Labs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 15 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/tags/risk/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://cbayes.com/tags/risk/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,21 +17,21 @@
     
     <item>
       <title>How to Catch Fraud with Deep Learning</title>
-      <link>http://localhost:1313/blog/how-to-catch-fraud-with-deep-learning/</link>
+      <link>https://cbayes.com/blog/how-to-catch-fraud-with-deep-learning/</link>
       <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/how-to-catch-fraud-with-deep-learning/</guid>
+      <guid>https://cbayes.com/blog/how-to-catch-fraud-with-deep-learning/</guid>
       <description>
         
         
         &lt;p&gt;Fraud continues to be an important topic in the financial world helping detect when funds are mismanaged.&lt;/p&gt;
 &lt;p&gt;Nilson reports that U.S. card fraud (credit, debt, etc) was reportedly $9 billion in 2016 and expected to increase to $12 billion by 2020. Due to these nefarious acts; it is in the best interest of any organization to ensure the work of most customers. Thus it is appropriate to respond to this fraud.&lt;/p&gt;
 &lt;p&gt;Hence there is much written about these methods to detect fraud in order to provide mitigation to an organization.&lt;/p&gt;
-&lt;h2&gt;Introduction&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;introduction&#34;&gt;&lt;/span&gt;
+&lt;h2&gt;Introduction&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;introduction&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#introduction&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Some of the traditional ways to catch fraud are as follows
 Anomaly Testing&lt;/p&gt;
-&lt;h2&gt;Reference&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;reference&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#reference&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://blogs.oracle.com/datascience/fraud-detection-using-autoencoders-in-keras-with-a-tensorflow-backend&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://blogs.oracle.com/datascience/fraud-detection-using-autoencoders-in-keras-with-a-tensorflow-backend&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Reference&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;reference&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#reference&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://blogs.oracle.com/datascience/fraud-detection-using-autoencoders-in-keras-with-a-tensorflow-backend&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://blogs.oracle.com/datascience/fraud-detection-using-autoencoders-in-keras-with-a-tensorflow-backend&lt;/a&gt;&lt;/p&gt;
 
       </description>
     </item>

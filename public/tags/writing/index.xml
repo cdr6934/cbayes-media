@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CBayes Media Labs – Writing</title>
-    <link>http://localhost:1313/tags/writing/</link>
+    <link>https://cbayes.com/tags/writing/</link>
     <description>Recent content in Writing on CBayes Media Labs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Nov 2023 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://cbayes.com/tags/writing/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,17 +17,17 @@
     
     <item>
       <title>CreativeQ</title>
-      <link>http://localhost:1313/blog/creative_q/</link>
+      <link>https://cbayes.com/blog/creative_q/</link>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/creative_q/</guid>
+      <guid>https://cbayes.com/blog/creative_q/</guid>
       <description>
         
         
-        &lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/53405100138_a5dfa60fc3_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/53405100138_a5dfa60fc3_b_d.jpg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;2023 - Built with Javascript&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The original site is &lt;strong&gt;&lt;a href=&#34;https://creativeq.glitch.me/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;ve been collecting various quotes for many years. One of my favorite genres has been quotes about creativity. In this project I had scraped Good Reads and looked for quotes that had anything to do with art and creativity. Stored them in a Postgres table. Created an API using &lt;a href=&#34;www.val.town&#34; &gt;ValTown&lt;/a&gt; from where I am using it to pass through when calling against the postgres instance. Right now it simply is a little tool to ponder on quotes.&lt;/p&gt;
+&lt;p&gt;The original site is &lt;strong&gt;&lt;a href=&#34;https://creativeq.glitch.me/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve been collecting various quotes for many years. One of my favorite genres has been quotes about creativity. In this project I had scraped Good Reads and looked for quotes that had anything to do with art and creativity. Stored them in a Postgres table. Created an API using &lt;a href=&#34;www.val.town&#34;&gt;ValTown&lt;/a&gt; from where I am using it to pass through when calling against the postgres instance. Right now it simply is a little tool to ponder on quotes.&lt;/p&gt;
 &lt;p&gt;I also use this dataset from which I pull out the quotes I use on the newsletter as well.&lt;/p&gt;
 
       </description>
@@ -35,57 +35,57 @@
     
     <item>
       <title>Cutting Images</title>
-      <link>http://localhost:1313/blog/image_mirror/</link>
+      <link>https://cbayes.com/blog/image_mirror/</link>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/image_mirror/</guid>
+      <guid>https://cbayes.com/blog/image_mirror/</guid>
       <description>
         
         
         &lt;p&gt;The following is a little test module I was building in order to take some time and understand the OpenFrameworks APIs when it came to images.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/53400733220_5ca32e6dea_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/53400733220_5ca32e6dea_b_d.jpg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>Genuary 2023</title>
-      <link>http://localhost:1313/blog/genuary_2023/</link>
+      <link>https://cbayes.com/blog/genuary_2023/</link>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/genuary_2023/</guid>
+      <guid>https://cbayes.com/blog/genuary_2023/</guid>
       <description>
         
         
-        &lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/53398733611_5303bd2fce_o_d.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/53398733611_5303bd2fce_o_d.gif&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;This was a slightly different year as I used Javascript for the first time&amp;hellip; this was using all P5 for this work just to get a better hang of Javascript and all the various interesting ways it can be used.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/c4e17e7b3695ccb5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 1 - Endless Loop&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/d733c061b8e19e74&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 2 - Made in 10 Minutes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/2bb87113450990fe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 3 - Glitch Art&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/1c6efc8ad253490e&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 4 - Intersections&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/d640e9c9d70d5865&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 5 - Debug View&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/b6db008d792e9e78&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 7 - Favorite Album / Movie Palette&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/6e49c3206d4b9a60&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 8 - SDF&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/c263f5e80cc5fb7c&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 9 - Plants&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/785f972cd6885946&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 11 - Supremism&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/0c4f89f082139d42&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 14 - Aesemic&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/d813679ce8da7113&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 15 - Sine Waves&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/c0996ad5253a82b8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 16 - Reflection of a reflection&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/6efa224a7b039908&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 12 - Tesselation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/e3621acee93b37e1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 13 - Learning Something New&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/4ae126fee48ed1fa&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 17 - The Grid Inside A Grid Inside A Grid&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/7a26f4508bf08adf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 18 - Definitely not a grid&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/956d186d889c103c&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 19 - Black and White&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/80c941c534374c23&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 20 - Art Deco&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/cac0ba9abad015f5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 21 - Persian Rug&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/acd2ae4608d99539&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 23 - More Moire&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/85143a64fc0962b8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 22 - Shadows&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/ec6d26ee042f22c5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 25 - Yayoi Kusama&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/785dbac4fff4d79e&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 26 - My kid could have made it&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/cc951ed72dd74861&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 27 - In the style of Hilma Af Klint&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/bff2cc4bcb9eb30d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 28 - Generative Poetry&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/670f4eb78e87f2b1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 30 - Minimalism&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/c4e17e7b3695ccb5&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 1 - Endless Loop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/d733c061b8e19e74&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 2 - Made in 10 Minutes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/2bb87113450990fe&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 3 - Glitch Art&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/1c6efc8ad253490e&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 4 - Intersections&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/d640e9c9d70d5865&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 5 - Debug View&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/b6db008d792e9e78&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 7 - Favorite Album / Movie Palette&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/6e49c3206d4b9a60&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 8 - SDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/c263f5e80cc5fb7c&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 9 - Plants&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/785f972cd6885946&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 11 - Supremism&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/0c4f89f082139d42&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 14 - Aesemic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/d813679ce8da7113&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 15 - Sine Waves&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/c0996ad5253a82b8&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 16 - Reflection of a reflection&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/6efa224a7b039908&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 12 - Tesselation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/e3621acee93b37e1&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 13 - Learning Something New&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/4ae126fee48ed1fa&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 17 - The Grid Inside A Grid Inside A Grid&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/7a26f4508bf08adf&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 18 - Definitely not a grid&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/956d186d889c103c&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 19 - Black and White&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/80c941c534374c23&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 20 - Art Deco&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/cac0ba9abad015f5&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 21 - Persian Rug&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/acd2ae4608d99539&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 23 - More Moire&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/85143a64fc0962b8&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 22 - Shadows&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/ec6d26ee042f22c5&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 25 - Yayoi Kusama&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/785dbac4fff4d79e&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 26 - My kid could have made it&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/cc951ed72dd74861&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 27 - In the style of Hilma Af Klint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/bff2cc4bcb9eb30d&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 28 - Generative Poetry&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/670f4eb78e87f2b1&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 30 - Minimalism&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -93,15 +93,15 @@
     
     <item>
       <title>Synthetic Sequences</title>
-      <link>http://localhost:1313/blog/synthetic_sequences/</link>
+      <link>https://cbayes.com/blog/synthetic_sequences/</link>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/synthetic_sequences/</guid>
+      <guid>https://cbayes.com/blog/synthetic_sequences/</guid>
       <description>
         
         
-        &lt;p&gt;&lt;a href=&#34;https://observablehq.com/d/281b91fdea3db74c&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Observable Notebook&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;Purpose:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;purpose&#34;&gt;&lt;/span&gt;
+        &lt;p&gt;&lt;a href=&#34;https://observablehq.com/d/281b91fdea3db74c&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Observable Notebook&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Purpose:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;purpose&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#purpose&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;To blend biology with the arts as a way to teach simple concepts about DNA sequences and explore my curiosity to create a primitive synthetic system.&lt;/p&gt;
 
       </description>
@@ -109,10 +109,10 @@
     
     <item>
       <title>Physical Calligraphy</title>
-      <link>http://localhost:1313/blog/calligraphy/</link>
+      <link>https://cbayes.com/blog/calligraphy/</link>
       <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/calligraphy/</guid>
+      <guid>https://cbayes.com/blog/calligraphy/</guid>
       <description>
         
         
@@ -124,40 +124,40 @@
     
     <item>
       <title>Synthetic Sequences</title>
-      <link>http://localhost:1313/blog/creative_coding_environment/</link>
+      <link>https://cbayes.com/blog/creative_coding_environment/</link>
       <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/creative_coding_environment/</guid>
+      <guid>https://cbayes.com/blog/creative_coding_environment/</guid>
       <description>
         
         
-        &lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/53399375046_8ec04e68c1_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;You can find more on how it works &lt;a href=&#34;https://observablehq.com/d/10397b6df11b187f&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/53399375046_8ec04e68c1_b_d.jpg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;You can find more on how it works &lt;a href=&#34;https://observablehq.com/d/10397b6df11b187f&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>Generative Art -  The Story, It&#39;s Uses, and Future</title>
-      <link>http://localhost:1313/blog/generative_book/</link>
+      <link>https://cbayes.com/blog/generative_book/</link>
       <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/generative_book/</guid>
+      <guid>https://cbayes.com/blog/generative_book/</guid>
       <description>
         
         
-        &lt;p&gt;Can see the book &lt;a href=&#34;https://cbayes.gitbook.io/generative-art-the-story-its-uses-and-future/part-1-history/1970s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/53406092770_c09004c823_o_d.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+        &lt;p&gt;Can see the book &lt;a href=&#34;https://cbayes.gitbook.io/generative-art-the-story-its-uses-and-future/part-1-history/1970s&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/53406092770_c09004c823_o_d.gif&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>Interview - Tyler Hobbs</title>
-      <link>http://localhost:1313/blog/tyler_hobbs/</link>
+      <link>https://cbayes.com/blog/tyler_hobbs/</link>
       <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/tyler_hobbs/</guid>
+      <guid>https://cbayes.com/blog/tyler_hobbs/</guid>
       <description>
         
         
@@ -168,15 +168,15 @@
     
     <item>
       <title>Determining Heartbeat from iPhone Camera</title>
-      <link>http://localhost:1313/blog/heartbeat_using_iphone/</link>
+      <link>https://cbayes.com/blog/heartbeat_using_iphone/</link>
       <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/heartbeat_using_iphone/</guid>
+      <guid>https://cbayes.com/blog/heartbeat_using_iphone/</guid>
       <description>
         
         
-        &lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/53420638036_66d89258de_b_d.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;This was originally written up &lt;a href=&#34;https://rstudio-pubs-static.s3.amazonaws.com/306404_eb693e8fadc140eb9f199394f39d3849.html#&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.. here is the original repo on my &lt;a href=&#34;https://github.com/cdr6934/ImageManipulationExperiments/tree/master&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/53420638036_66d89258de_b_d.jpg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;This was originally written up &lt;a href=&#34;https://rstudio-pubs-static.s3.amazonaws.com/306404_eb693e8fadc140eb9f199394f39d3849.html#&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.. here is the original repo on my &lt;a href=&#34;https://github.com/cdr6934/ImageManipulationExperiments/tree/master&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;I always thought this experiment was incredibly interesting. It was using something that I hadn&amp;rsquo;t even thought about this until I was an app on the phone before the Apple Watch.&lt;/p&gt;
 &lt;p&gt;So I wanted to see if I could pull out the images, analyze the information so that I could determine the peaks in the Red color channel and pull out some of the information that could be used.&lt;/p&gt;
 
@@ -185,30 +185,30 @@
     
     <item>
       <title>Creative Sinkholes</title>
-      <link>http://localhost:1313/blog/creative_sinkholes/</link>
+      <link>https://cbayes.com/blog/creative_sinkholes/</link>
       <pubDate>Sat, 04 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/creative_sinkholes/</guid>
+      <guid>https://cbayes.com/blog/creative_sinkholes/</guid>
       <description>
         
         
-        &lt;p&gt;Originally written in 2014 on &lt;a href=&#34;https://medium.com/@generatecoll/98a7168015d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Medium&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/53398436272_c5c3f9034f_o_d.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+        &lt;p&gt;Originally written in 2014 on &lt;a href=&#34;https://medium.com/@generatecoll/98a7168015d&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Medium&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/53398436272_c5c3f9034f_o_d.gif&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Believing that something is crap, is creative indigestion. It inhibits your power to create, sucks your soul’s happiness and breeds stress and rejection. It becomes a waste of time, rather than further develop. We discontinue this crap that we have mistaken as no creativity. This is a perception that needs to be overcome and dealt with. But how do you overcome?&lt;/p&gt;
-&lt;h2&gt;1. Don’t Limit your Creativity&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-dont-limit-your-creativity&#34;&gt;&lt;/span&gt;
+&lt;h2&gt;1. Don’t Limit your Creativity&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-dont-limit-your-creativity&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#1-dont-limit-your-creativity&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;As people we generally want to be like the Jones. This is inherent; we deem it necessary to survive in the vivacious world of competition. But,&lt;/p&gt;
 &lt;p&gt;Competition should drive us, rather than control us.&lt;/p&gt;
 &lt;p&gt;For keeping up will limit us to their best. And limits to creativity should never keep us from trying to create and letting our minds be wild. Honestly our best should be our passion to want to develop. A passion to push the envelope and find new ways of defining and redefining what we create.&lt;/p&gt;
-&lt;h2&gt;2. Be OK with something not yet good enough.&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-be-ok-with-something-not-yet-good-enough&#34;&gt;&lt;/span&gt;
+&lt;h2&gt;2. Be OK with something not yet good enough.&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-be-ok-with-something-not-yet-good-enough&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#2-be-ok-with-something-not-yet-good-enough&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;As a perfectionist, I find myself not creating and worrying about the not good enough; this inhibits further growth of any project. So at times, it is just a good idea of putting it out there, even when it isn’t really good enough. But that is the beauty about trying again.&lt;/p&gt;
 &lt;p&gt;Creativity is not a final grade&lt;/p&gt;
 &lt;p&gt;Don’t give up when there is confrontation or indifference to your current good enough.&lt;/p&gt;
-&lt;h2&gt;3. Let it Flow&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-let-it-flow&#34;&gt;&lt;/span&gt;
+&lt;h2&gt;3. Let it Flow&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-let-it-flow&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#3-let-it-flow&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Creativity is a partnership; it means we use our ideas in our passions and further test them out. As we test and try, and spend time with them; they become part of us. Just like a 6th sense it starts to hinge on and becomes a passionate limb. In accepting that, we start to instinctively just be creative rather than “try to be” creative.&lt;/p&gt;
-&lt;h2&gt;4. Innovate, Breakdown and Innovate More&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;4-innovate-breakdown-and-innovate-more&#34;&gt;&lt;/span&gt;
+&lt;h2&gt;4. Innovate, Breakdown and Innovate More&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;4-innovate-breakdown-and-innovate-more&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#4-innovate-breakdown-and-innovate-more&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Try, try and try again.&lt;/p&gt;
 &lt;p&gt;Don’t like it, retry what you did with a different method. Scrape the other and try again, it’s only through a continual trying, testing and reproducing to produce that we find new ways of doing. For as we do, we unearth questions that we might be able to answer.&lt;/p&gt;
-&lt;h2&gt;5. Perfect never comes.&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;5-perfect-never-comes&#34;&gt;&lt;/span&gt;
+&lt;h2&gt;5. Perfect never comes.&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;5-perfect-never-comes&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#5-perfect-never-comes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Simple enough, even though I have wished it to be true; we will never find the perfect. So go with what you have and improve.&lt;/p&gt;
 
       </description>

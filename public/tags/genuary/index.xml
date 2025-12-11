@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CBayes Media Labs – Genuary</title>
-    <link>http://localhost:1313/tags/genuary/</link>
+    <link>https://cbayes.com/tags/genuary/</link>
     <description>Recent content in Genuary on CBayes Media Labs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Nov 2023 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/tags/genuary/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://cbayes.com/tags/genuary/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,42 +17,42 @@
     
     <item>
       <title>Genuary 2023</title>
-      <link>http://localhost:1313/blog/genuary_2023/</link>
+      <link>https://cbayes.com/blog/genuary_2023/</link>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/genuary_2023/</guid>
+      <guid>https://cbayes.com/blog/genuary_2023/</guid>
       <description>
         
         
-        &lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/53398733611_5303bd2fce_o_d.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/53398733611_5303bd2fce_o_d.gif&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;This was a slightly different year as I used Javascript for the first time&amp;hellip; this was using all P5 for this work just to get a better hang of Javascript and all the various interesting ways it can be used.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/c4e17e7b3695ccb5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 1 - Endless Loop&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/d733c061b8e19e74&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 2 - Made in 10 Minutes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/2bb87113450990fe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 3 - Glitch Art&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/1c6efc8ad253490e&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 4 - Intersections&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/d640e9c9d70d5865&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 5 - Debug View&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/b6db008d792e9e78&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 7 - Favorite Album / Movie Palette&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/6e49c3206d4b9a60&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 8 - SDF&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/c263f5e80cc5fb7c&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 9 - Plants&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/785f972cd6885946&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 11 - Supremism&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/0c4f89f082139d42&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 14 - Aesemic&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/d813679ce8da7113&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 15 - Sine Waves&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/c0996ad5253a82b8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 16 - Reflection of a reflection&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/6efa224a7b039908&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 12 - Tesselation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/e3621acee93b37e1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 13 - Learning Something New&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/4ae126fee48ed1fa&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 17 - The Grid Inside A Grid Inside A Grid&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/7a26f4508bf08adf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 18 - Definitely not a grid&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/956d186d889c103c&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 19 - Black and White&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/80c941c534374c23&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 20 - Art Deco&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/cac0ba9abad015f5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 21 - Persian Rug&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/acd2ae4608d99539&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 23 - More Moire&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/85143a64fc0962b8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 22 - Shadows&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/ec6d26ee042f22c5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 25 - Yayoi Kusama&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/785dbac4fff4d79e&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 26 - My kid could have made it&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/cc951ed72dd74861&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 27 - In the style of Hilma Af Klint&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/bff2cc4bcb9eb30d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 28 - Generative Poetry&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/670f4eb78e87f2b1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 30 - Minimalism&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/c4e17e7b3695ccb5&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 1 - Endless Loop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/d733c061b8e19e74&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 2 - Made in 10 Minutes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/2bb87113450990fe&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 3 - Glitch Art&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/1c6efc8ad253490e&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 4 - Intersections&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/d640e9c9d70d5865&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 5 - Debug View&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/b6db008d792e9e78&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 7 - Favorite Album / Movie Palette&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/6e49c3206d4b9a60&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 8 - SDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/c263f5e80cc5fb7c&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 9 - Plants&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/785f972cd6885946&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 11 - Supremism&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/0c4f89f082139d42&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 14 - Aesemic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/d813679ce8da7113&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 15 - Sine Waves&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/c0996ad5253a82b8&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 16 - Reflection of a reflection&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/6efa224a7b039908&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 12 - Tesselation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/e3621acee93b37e1&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 13 - Learning Something New&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/4ae126fee48ed1fa&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 17 - The Grid Inside A Grid Inside A Grid&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/7a26f4508bf08adf&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 18 - Definitely not a grid&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/956d186d889c103c&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 19 - Black and White&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/80c941c534374c23&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 20 - Art Deco&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/cac0ba9abad015f5&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 21 - Persian Rug&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/acd2ae4608d99539&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 23 - More Moire&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/85143a64fc0962b8&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 22 - Shadows&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/ec6d26ee042f22c5&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 25 - Yayoi Kusama&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/785dbac4fff4d79e&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 26 - My kid could have made it&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/cc951ed72dd74861&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 27 - In the style of Hilma Af Klint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/bff2cc4bcb9eb30d&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 28 - Generative Poetry&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://observablehq.com/d/670f4eb78e87f2b1&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genuary 2023 - Day 30 - Minimalism&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>

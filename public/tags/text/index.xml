@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CBayes Media Labs – Text</title>
-    <link>http://localhost:1313/tags/text/</link>
+    <link>https://cbayes.com/tags/text/</link>
     <description>Recent content in Text on CBayes Media Labs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 03 Nov 2017 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/tags/text/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://cbayes.com/tags/text/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,19 +17,19 @@
     
     <item>
       <title>Text Generation</title>
-      <link>http://localhost:1313/blog/text-generation/</link>
+      <link>https://cbayes.com/blog/text-generation/</link>
       <pubDate>Fri, 03 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/text-generation/</guid>
+      <guid>https://cbayes.com/blog/text-generation/</guid>
       <description>
         
         
         &lt;h1&gt;IN PROGRESS&lt;/h1&gt;&lt;p&gt;Text Generation (Generative Texr) is a very interesting field of study. There are a number of different packages that help generate the lists of words to give the user a better understanding of the technology.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/galaxykate/tracery&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tracery&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/galaxykate/tracery&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tracery&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;The following Node library gives a structure which is used to generate random words that are assigned to lexical structure that is defined by the user.&lt;/p&gt;
-&lt;div class=&#34;hextra-code-block hx-relative hx-mt-6 first:hx-mt-0 hx-group/code&#34;&gt;
+&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
 
 &lt;div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    centar &lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt; {
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        animal &lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt; [&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;wolf&amp;#34;&lt;/span&gt;,&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;bear&amp;#34;&lt;/span&gt;,&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;tiger&amp;#34;&lt;/span&gt;,&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;lion&amp;#34;&lt;/span&gt;,&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;snake&amp;#34;&lt;/span&gt;,&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;anteater&amp;#34;&lt;/span&gt;],
@@ -41,33 +41,33 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        response &lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt; [&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;#animal# love #fruit##lastSyl#&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;#animal# #said# at #timeofday#&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;#lastSyl##lastSyl#&amp;#34;&lt;/span&gt;],
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;origin&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&amp;lt;h3&amp;gt;#vipTitle# Watson, let me tell you of a #response#&amp;lt;/h3&amp;gt;&amp;#34;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    }&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx-opacity-0 hx-transition group-hover/code:hx-opacity-100 hx-flex hx-gap-1 hx-absolute hx-m-[11px] hx-right-0 hx-top-0&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    }&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
   &lt;button
-    class=&#34;hextra-code-copy-btn hx-group/copybtn hx-transition-all active:hx-opacity-50 hx-bg-primary-700/5 hx-border hx-border-black/5 hx-text-gray-600 hover:hx-text-gray-900 hx-rounded-md hx-p-1.5 dark:hx-bg-primary-300/10 dark:hx-border-white/10 dark:hx-text-gray-400 dark:hover:hx-text-gray-50&#34;
+    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
     title=&#34;Copy code&#34;
   &gt;
-    &lt;div class=&#34;copy-icon group-[.copied]/copybtn:hx-hidden hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
-    &lt;div class=&#34;success-icon hx-hidden group-[.copied]/copybtn:hx-block hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+&lt;div class=&#34;hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
   &lt;/button&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;The following API&lt;/p&gt;
 &lt;h1&gt;Wordmuse API&lt;/h1&gt;&lt;p&gt;The following API can be used to generate related words that are pulled to create lexical randomness with less randomly features.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;words with a meaning similar to ringing in the ears							            &lt;a href=&#34;https://api.datamuse.com/words?ml=ringing&amp;#43;in&amp;#43;the&amp;#43;ears&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://api.datamuse.com/words?ml=ringing+in+the+ears&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;words related to duck that start with the letter b						  	          &lt;a href=&#34;https://api.datamuse.com/words?ml=duck&amp;amp;sp=b&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://api.datamuse.com/words?ml=duck&amp;sp=b&lt;/a&gt;*&lt;/li&gt;
-&lt;li&gt;words related to spoon that end with the letter a							              &lt;a href=&#34;https://api.datamuse.com/words?ml=spoon&amp;amp;sp=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://api.datamuse.com/words?ml=spoon&amp;sp=&lt;/a&gt;*a&lt;/li&gt;
-&lt;li&gt;words that sound like elefint												                        &lt;a href=&#34;https://api.datamuse.com/words?sl=elefint&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://api.datamuse.com/words?sl=elefint&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;words that start with t, end in k, and have two letters in between	        &lt;a href=&#34;https://api.datamuse.com/words?sp=t??k&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://api.datamuse.com/words?sp=t??k&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;words that are spelled similarly to coneticut	                              &lt;a href=&#34;https://api.datamuse.com/words?sp=coneticut&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://api.datamuse.com/words?sp=coneticut&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;words that rhyme with forgetful	                                            &lt;a href=&#34;https://api.datamuse.com/words?rel_rhy=forgetful&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://api.datamuse.com/words?rel_rhy=forgetful&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;words that rhyme with grape that are related to breakfast	                  &lt;a href=&#34;https://api.datamuse.com/words?ml=breakfast&amp;amp;rel_rhy=grape&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://api.datamuse.com/words?ml=breakfast&amp;rel_rhy=grape&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;adjectives that are often used to describe ocean	                          &lt;a href=&#34;https://api.datamuse.com/words?rel_jjb=ocean&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://api.datamuse.com/words?rel_jjb=ocean&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;adjectives describing ocean sorted by how related they are to temperature	  &lt;a href=&#34;https://api.datamuse.com/words?rel_jjb=ocean&amp;amp;topics=temperature&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://api.datamuse.com/words?rel_jjb=ocean&amp;topics=temperature&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;nouns that are often described by the adjective yellow	                    &lt;a href=&#34;https://api.datamuse.com/words?rel_jja=yellow&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://api.datamuse.com/words?rel_jja=yellow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;words with a meaning similar to ringing in the ears							            &lt;a href=&#34;https://api.datamuse.com/words?ml=ringing&amp;#43;in&amp;#43;the&amp;#43;ears&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://api.datamuse.com/words?ml=ringing+in+the+ears&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;words related to duck that start with the letter b						  	          &lt;a href=&#34;https://api.datamuse.com/words?ml=duck&amp;amp;sp=b&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://api.datamuse.com/words?ml=duck&amp;sp=b&lt;/a&gt;*&lt;/li&gt;
+&lt;li&gt;words related to spoon that end with the letter a							              &lt;a href=&#34;https://api.datamuse.com/words?ml=spoon&amp;amp;sp=&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://api.datamuse.com/words?ml=spoon&amp;sp=&lt;/a&gt;*a&lt;/li&gt;
+&lt;li&gt;words that sound like elefint												                        &lt;a href=&#34;https://api.datamuse.com/words?sl=elefint&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://api.datamuse.com/words?sl=elefint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;words that start with t, end in k, and have two letters in between	        &lt;a href=&#34;https://api.datamuse.com/words?sp=t??k&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://api.datamuse.com/words?sp=t??k&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;words that are spelled similarly to coneticut	                              &lt;a href=&#34;https://api.datamuse.com/words?sp=coneticut&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://api.datamuse.com/words?sp=coneticut&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;words that rhyme with forgetful	                                            &lt;a href=&#34;https://api.datamuse.com/words?rel_rhy=forgetful&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://api.datamuse.com/words?rel_rhy=forgetful&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;words that rhyme with grape that are related to breakfast	                  &lt;a href=&#34;https://api.datamuse.com/words?ml=breakfast&amp;amp;rel_rhy=grape&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://api.datamuse.com/words?ml=breakfast&amp;rel_rhy=grape&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;adjectives that are often used to describe ocean	                          &lt;a href=&#34;https://api.datamuse.com/words?rel_jjb=ocean&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://api.datamuse.com/words?rel_jjb=ocean&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;adjectives describing ocean sorted by how related they are to temperature	  &lt;a href=&#34;https://api.datamuse.com/words?rel_jjb=ocean&amp;amp;topics=temperature&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://api.datamuse.com/words?rel_jjb=ocean&amp;topics=temperature&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;nouns that are often described by the adjective yellow	                    &lt;a href=&#34;https://api.datamuse.com/words?rel_jja=yellow&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://api.datamuse.com/words?rel_jja=yellow&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;words that often follow &amp;ldquo;drink&amp;rdquo; in a sentence, that start with the letter w	https://api.datamuse.com/words?lc=drink&amp;amp;sp=w*&lt;/li&gt;
-&lt;li&gt;words that are triggered by (strongly associated with) the word &amp;ldquo;cow&amp;rdquo;	      &lt;a href=&#34;https://api.datamuse.com/words?rel_trg=cow&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://api.datamuse.com/words?rel_trg=cow&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;suggestions for the user if they have typed in rawand so far	              &lt;a href=&#34;https://api.datamuse.com/sug?s=rawand&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://api.datamuse.com/sug?s=rawand&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;words that are triggered by (strongly associated with) the word &amp;ldquo;cow&amp;rdquo;	      &lt;a href=&#34;https://api.datamuse.com/words?rel_trg=cow&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://api.datamuse.com/words?rel_trg=cow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;suggestions for the user if they have typed in rawand so far	              &lt;a href=&#34;https://api.datamuse.com/sug?s=rawand&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://api.datamuse.com/sug?s=rawand&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>

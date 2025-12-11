@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CBayes Media Labs – Geometry</title>
-    <link>http://localhost:1313/categories/geometry/</link>
+    <link>https://cbayes.com/categories/geometry/</link>
     <description>Recent content in Geometry on CBayes Media Labs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Feb 2021 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/categories/geometry/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://cbayes.com/categories/geometry/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>Minimum Distance between a Point and a Line</title>
-      <link>http://localhost:1313/blog/2021-02-20-minimum-distance-point-line/</link>
+      <link>https://cbayes.com/blog/2021-02-20-minimum-distance-point-line/</link>
       <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/2021-02-20-minimum-distance-point-line/</guid>
+      <guid>https://cbayes.com/blog/2021-02-20-minimum-distance-point-line/</guid>
       <description>
         
         
@@ -50,13 +50,13 @@ $$&lt;/p&gt;
 y = y_1+u(y_2-y_1)
 $$&lt;/p&gt;
 &lt;p&gt;The distance therefore between the point \(P_3\) and the line is the distance between \((x,y)\) above and \(P_3\).&lt;/p&gt;
-&lt;h3&gt;Notes&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;notes&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;Notes&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;notes&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#notes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;The only special testing for a software implementation is to ensure that \(P_1\) and \(P-2\) are not coincident (denominator in the equation for u is 0)&lt;/li&gt;
 &lt;li&gt;If the distance of the point to a line segment is required then it is only necessary to test that u lies between 0 and 1.&lt;/li&gt;
 &lt;li&gt;The solution is similar in higher dimensions.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&#34;hextra-code-block hx-relative hx-mt-6 first:hx-mt-0 hx-group/code&#34;&gt;
+&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
 
 &lt;div&gt;&lt;pre&gt;&lt;code&gt;distancePointLine &amp;lt;- function(x, y, slope, intercept) {
  ## x, y is the point to test.
@@ -125,19 +125,19 @@ distancePointLineTest &amp;lt;- function() {
  if(abs(distancePointSegment(  0,   0,   0, -2,  2,  0)^2 - 2)&amp;gt;.0001)
    stop(&amp;#34;error 9&amp;#34;)
  return(TRUE)
-}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx-opacity-0 hx-transition group-hover/code:hx-opacity-100 hx-flex hx-gap-1 hx-absolute hx-m-[11px] hx-right-0 hx-top-0&#34;&gt;
+}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
   &lt;button
-    class=&#34;hextra-code-copy-btn hx-group/copybtn hx-transition-all active:hx-opacity-50 hx-bg-primary-700/5 hx-border hx-border-black/5 hx-text-gray-600 hover:hx-text-gray-900 hx-rounded-md hx-p-1.5 dark:hx-bg-primary-300/10 dark:hx-border-white/10 dark:hx-text-gray-400 dark:hover:hx-text-gray-50&#34;
+    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
     title=&#34;Copy code&#34;
   &gt;
-    &lt;div class=&#34;copy-icon group-[.copied]/copybtn:hx-hidden hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
-    &lt;div class=&#34;success-icon hx-hidden group-[.copied]/copybtn:hx-block hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+&lt;div class=&#34;hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
   &lt;/button&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;h2&gt;Reference&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;reference&#34;&gt;&lt;/span&gt;
+&lt;h2&gt;Reference&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;reference&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#reference&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://paulbourke.net/geometry/pointlineplane/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Point, Line, Plane&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://paulbourke.net/geometry/pointlineplane/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Point, Line, Plane&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
