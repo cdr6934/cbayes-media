@@ -32,7 +32,7 @@ Eventually I see a multidisciplinary team combining the expertise of software en
 research, engineering and data-driven design to deliver custom solutions that inspire and engage. 
 
 I've been working on a few different projects: 
-* **[Szent](https://szent.com)** - Linktree but simpler
+* **[Szent](https://szent.app)** - Linktree but simpler
 * **[Varanorr](https://varanorr.com)** - Research / Design Studio 
 * **[Haus Mono](https://hausmono.com)** -  a printing operations workflow for artists
 * **[Pixel Poetry](https://pixelpoetry.xyz)** - AI Strategy services
