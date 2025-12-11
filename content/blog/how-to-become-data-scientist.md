@@ -15,4 +15,7 @@ However we are gone from that time and age. So what does a good data scientist l
 Well he is a master in 3 different areas... 
 
 - Mathematics / Statistics 
-- 
+- Computer Science 
+- Business Intuition 
+
+These three subjects 
